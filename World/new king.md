@@ -1,0 +1,1 @@
+he sucks and makes [[Thugs]] appear
