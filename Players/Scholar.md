@@ -4,4 +4,4 @@ At first the scholar was frustrated with the new burden, believing that his simp
 
 Soon came the time for the prince to fill his father's shoes. And quickly he started a campaign of conquest to much of the scholar's disapproval, for he feared that his hastiness and  short temper would get the best of him. His fears were proven right quicker than he hoped, the young king lost himself in a battle field and was considered deceased. 
 
-The scholar's heart was broken for the loss of his student, and he had to accept a [[new king]] that made a once a safe and prosperous lands a wasteland full of rot and decay 
+The scholar's heart was broken for the loss of his student, and he had to accept a [[new king]] that made a once a safe and prosperous lands a wasteland full of rot and decay. Many people left their homes in discontent
