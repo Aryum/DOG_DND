@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"6dd6ab7e051b09cc","x":-540,"y":-340,"width":400,"height":400,"type":"file","file":"DOG_DND/Encounter/1st Combat.md"}
+		{"id":"6dd6ab7e051b09cc","x":-540,"y":-340,"width":400,"height":400,"type":"file","file":"DOG_DND/Encounter/1st Combat.md"},
+		{"id":"b5d3df839ecaf25a","x":140,"y":-340,"width":400,"height":400,"type":"file","file":"DOG_DND/Encounter/Tavern.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"80fc6ade05c5bc2a","fromNode":"6dd6ab7e051b09cc","fromSide":"right","toNode":"b5d3df839ecaf25a","toSide":"left"}
+	]
 }
