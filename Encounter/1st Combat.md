@@ -1,2 +1,3 @@
--Monsters based on players
--Do not describe players yet cause of the low light
+- Monsters based on players
+- Do not describe players yet cause of the low light
+- A monster that changes shape? and targets last players that hit, players roll a perception check when they are hit or hit the monsters
