@@ -1,4 +1,4 @@
-**Scholar** was an educated man that worked for a king, helping him mostly with his finances. He had a quiet life and lived mostly for himself until his lord had a son and he was tasked with teaching the young prince ([[Seraphim the lost]]) the ways of the world.
+**Niels** was a scholar a very educated man that worked for a king, helping him mostly with his finances. He had a quiet life and lived mostly for himself until his lord had a son and he was tasked with teaching the young prince ([[Seraphim the lost]]) the ways of the world.
 
 At first the scholar was frustrated with the new burden, believing that his simple monotonous life was over, having switched quiet afternoons of study to teaching a hasty and short tempered child about the duties of running a kingdom, but overtime he grew to enjoy his companionship and appreciate the a work that was bigger than himself. 
 
