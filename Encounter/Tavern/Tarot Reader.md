@@ -12,4 +12,6 @@
 - The Sun - Joy sucess vitality, positivity
 - The Moon - Illusion fear subconscious, uncertainty
 - The Star - Hope faith renewal inspiration
+- The chariot - Will power determination, victory through focus and control of oposing forces
 Add more if needed
+

@@ -1,19 +1,25 @@
 {
 	"nodes":[
-		{"id":"70e96f14f0bd6fe9","type":"file","file":"DOG_DND/Encounter/Tavern/Tarot Reader.md","x":100,"y":60,"width":540,"height":480},
+		{"id":"0609b58bb5372807","x":-365,"y":1220,"width":250,"height":263,"type":"file","file":"DOG_DND/Encounter/Tavern/Vendor.md"},
 		{"id":"c6aa95525755a574","type":"text","text":"Random notes\n\nScholar and seraphim if they dont recognize each other in the campain have dif ending\n","x":-540,"y":-880,"width":250,"height":320},
-		{"id":"6dd6ab7e051b09cc","type":"file","file":"DOG_DND/Encounter/1st Combat.md","x":-940,"y":-340,"width":400,"height":400},
-		{"id":"b5d3df839ecaf25a","type":"file","file":"DOG_DND/Encounter/Tavern/Tavern.md","x":-20,"y":-260,"width":400,"height":190},
-		{"id":"9dd3de3d31db7e5d","type":"file","file":"DOG_DND/Encounter/Tavern/Barkeeper.md","x":-260,"y":60,"width":250,"height":420},
-		{"id":"aa3893ee43e124d1","type":"text","text":"Nikolai Oak\nThe lovers, \nThe hanged man\nThe devil -> pride of his trophes","x":640,"y":614,"width":290,"height":133},
-		{"id":"cca03883a329b540","type":"text","text":"Readings","x":307,"y":651,"width":126,"height":60},
-		{"id":"fc06921db80321e2","type":"text","text":"Seraphim \nThe sun \nThe moon \nThe stars","x":640,"y":747,"width":290,"height":133},
-		{"id":"9fe907f4c91ff0dc","x":640,"y":880,"width":290,"height":60,"type":"text","text":"Niels"}
+		{"id":"6dd6ab7e051b09cc","type":"file","file":"DOG_DND/Encounter/1st Combat.md","x":-940,"y":-560,"width":400,"height":400},
+		{"id":"b5d3df839ecaf25a","type":"file","file":"DOG_DND/Encounter/Tavern/Tavern.md","x":-940,"y":748,"width":400,"height":190},
+		{"id":"70e96f14f0bd6fe9","type":"file","file":"DOG_DND/Encounter/Tavern/Tarot Reader.md","x":-365,"y":573,"width":830,"height":540},
+		{"id":"cca03883a329b540","type":"text","text":"Readings","x":680,"y":573,"width":126,"height":60},
+		{"id":"aa3893ee43e124d1","type":"text","text":"Nikolai Oak\nThe lovers, \nThe hanged man","x":930,"y":498,"width":290,"height":105},
+		{"id":"fc06921db80321e2","type":"text","text":"Seraphim \nThe Chariot\nThe Fool","x":930,"y":605,"width":290,"height":105},
+		{"id":"9fe907f4c91ff0dc","type":"text","text":"Niels\nThe Tower\nDeath","x":930,"y":710,"width":290,"height":101},
+		{"id":"7fb3d2bbfc52a220","type":"text","text":"WRITE READING IN TAROT READER","x":1220,"y":502,"width":250,"height":311},
+		{"id":"9dd3de3d31db7e5d","type":"file","file":"DOG_DND/Encounter/Tavern/Barkeeper.md","x":-365,"y":78,"width":565,"height":420}
 	],
 	"edges":[
-		{"id":"8006496ac4e358eb","fromNode":"6dd6ab7e051b09cc","fromSide":"right","toNode":"b5d3df839ecaf25a","toSide":"left"},
-		{"id":"853635c9cd07411a","fromNode":"b5d3df839ecaf25a","fromSide":"bottom","toNode":"9dd3de3d31db7e5d","toSide":"top"},
-		{"id":"a26bd7ea3e55c31e","fromNode":"b5d3df839ecaf25a","fromSide":"bottom","toNode":"70e96f14f0bd6fe9","toSide":"top"},
-		{"id":"5f32f0430010931c","fromNode":"70e96f14f0bd6fe9","fromSide":"bottom","toNode":"cca03883a329b540","toSide":"top"}
+		{"id":"58d52d8d4e09c4ce","fromNode":"cca03883a329b540","fromSide":"right","toNode":"aa3893ee43e124d1","toSide":"left"},
+		{"id":"61e42e8470566b1c","fromNode":"cca03883a329b540","fromSide":"right","toNode":"fc06921db80321e2","toSide":"left"},
+		{"id":"47f58f0b9508ba99","fromNode":"cca03883a329b540","fromSide":"right","toNode":"9fe907f4c91ff0dc","toSide":"left"},
+		{"id":"5201875d58b506f7","fromNode":"6dd6ab7e051b09cc","fromSide":"bottom","toNode":"b5d3df839ecaf25a","toSide":"top"},
+		{"id":"a9d2863a93cb2619","fromNode":"b5d3df839ecaf25a","fromSide":"right","toNode":"9dd3de3d31db7e5d","toSide":"left"},
+		{"id":"49791fdb05f162f4","fromNode":"b5d3df839ecaf25a","fromSide":"right","toNode":"70e96f14f0bd6fe9","toSide":"left"},
+		{"id":"f6726f94b6d98fba","fromNode":"70e96f14f0bd6fe9","fromSide":"right","toNode":"cca03883a329b540","toSide":"left"},
+		{"id":"6a7fa6dd08e5b498","fromNode":"b5d3df839ecaf25a","fromSide":"right","toNode":"0609b58bb5372807","toSide":"left"}
 	]
 }
