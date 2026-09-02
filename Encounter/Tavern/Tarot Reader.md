@@ -1,4 +1,7 @@
 **Tarot reader**
+Hooded figure that you cannot see the face cause of the shade it makes
+
+Cards
 - The fool - new beginnings
 - The magician - willpower, resourceful, turning ideas into action
 - The emperor - Authority, structure, stability
