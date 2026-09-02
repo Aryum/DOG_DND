@@ -1,1 +1,2 @@
 - Very busy now cause of the recent skirmishes, and more reasons related to other players
+ - Has a bar keeper, some 
