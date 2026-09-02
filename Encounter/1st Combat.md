@@ -1,0 +1,2 @@
+-Monsters based on players
+-Do not describe players yet cause of the low light
