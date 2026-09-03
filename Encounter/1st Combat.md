@@ -6,7 +6,7 @@ You wake up in a dark place, dizzy and confused, not really sure how you got her
 		- high give description of figures
 			- A man with scorched robes
 			- A bloodied hunter
-			- 
+			- A young man with a  
 		- nat 20 -> notice enemies as well
 	- if they roll mid to high allow some time for them to interact otherwise just roll to fight
 You are Attacked by monsters (oblex spawn masked as things from their lore) 
