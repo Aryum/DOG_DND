@@ -13,7 +13,7 @@ You wake up in a dark place, dizzy and confused, not really sure how you got her
 You are Attacked by monsters (oblex spawn masked as things from their lore) 
 	- allow 2- 3 combat rounds until they dissapear, if they manage to kill something reward in boss fight
 
-A voice echoes from 
+The ground starts shaking, it starts cracking and a hole starts (roll acrobatics) or fall
 
 
 
