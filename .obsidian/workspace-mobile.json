@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Encounter/Tavern/Tavern.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -183,15 +183,15 @@
   },
   "active": "5a53b6965f6bd01f",
   "lastOpenFiles": [
+    "Players/Niels.md",
+    "Encounter/Tavern/Tavern.md",
     "Encounter/Tavern/Bandits.md",
     "Encounter/Tavern/Barkeeper.md",
     "Encounter/Tavern/Random Encounters.md",
     "Encounter/1st Combat.md",
     "Encounter/Campaign.canvas",
     "Players/Nikolai Oak.md",
-    "Encounter/Tavern/Tavern.md",
     "Encounter/Tavern/Tarot Reader.md",
-    "Players/Niels.md",
     "Encounter/Tavern",
     "Encounter",
     "/Players",
