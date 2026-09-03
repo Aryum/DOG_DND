@@ -13,7 +13,14 @@ You wake up in a dark place, dizzy and confused, not really sure how you got her
 You are Attacked by monsters (oblex spawn masked as things from their lore) 
 	- allow 2- 3 combat rounds until they dissapear, if they manage to kill something reward in boss fight
 
-The ground starts shaking, it starts cracking and a hole starts (roll acrobatics) or fall
+ You suddenly hear a voice echoing inside your head
+	 Give in, surrender and you find peace
+ 
+ The ground beneath you feet starts shaking, it starts cracking and a  rupture starts forming. (roll acrobatics)
+	- nat 1 fall take 2x
+	- Low fall take  1x dmg
+	- high fall take no dmg
+	- nat 20 -> voice says "impressive, but your will shall be broken"
 
 
 
