@@ -4,7 +4,6 @@
 		{"id":"2dbbfe7a5c5ed6f7","type":"group","x":-2560,"y":360,"width":1425,"height":1160,"label":"Filler"},
 		{"id":"2ec2bc6cf04c9903","type":"file","file":"DOG_DND/Encounter/Tavern/Bandits.md","x":-360,"y":1109,"width":830,"height":491},
 		{"id":"c6aa95525755a574","type":"text","text":"Random notes\n\nScholar and seraphim if they dont recognize each other in the campain have dif ending\n","x":-540,"y":-880,"width":250,"height":320},
-		{"id":"6dd6ab7e051b09cc","type":"file","file":"DOG_DND/Encounter/1st Combat.md","x":-940,"y":-560,"width":400,"height":400},
 		{"id":"b5d3df839ecaf25a","type":"file","file":"DOG_DND/Encounter/Tavern/Tavern.md","x":-940,"y":748,"width":400,"height":190},
 		{"id":"0609b58bb5372807","type":"file","file":"DOG_DND/Encounter/Tavern/Random Encounters.md","x":-1520,"y":989,"width":365,"height":360},
 		{"id":"9dd3de3d31db7e5d","type":"file","file":"DOG_DND/Encounter/Tavern/Barkeeper.md","x":-1720,"y":465,"width":565,"height":473},
@@ -13,7 +12,8 @@
 		{"id":"aa3893ee43e124d1","type":"text","text":"Nikolai Oak\nThe lovers, \nThe hanged man","x":810,"y":461,"width":290,"height":105},
 		{"id":"fc06921db80321e2","type":"text","text":"Seraphim \nThe Chariot\nThe Fool","x":810,"y":568,"width":290,"height":105},
 		{"id":"9fe907f4c91ff0dc","type":"text","text":"Niels\nThe Tower\nDeath","x":810,"y":673,"width":290,"height":101},
-		{"id":"7fb3d2bbfc52a220","type":"text","text":"WRITE READING IN TAROT READER","x":1100,"y":465,"width":250,"height":311}
+		{"id":"7fb3d2bbfc52a220","type":"text","text":"WRITE READING IN TAROT READER","x":1100,"y":465,"width":250,"height":311},
+		{"id":"6dd6ab7e051b09cc","type":"file","file":"DOG_DND/Encounter/1st Combat.md","x":-1120,"y":-480,"width":940,"height":700}
 	],
 	"edges":[
 		{"id":"58d52d8d4e09c4ce","fromNode":"cca03883a329b540","fromSide":"right","toNode":"aa3893ee43e124d1","toSide":"left"},
