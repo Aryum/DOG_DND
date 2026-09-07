@@ -4,7 +4,8 @@ After the fall, you feel in a completly diffrent place, suddenly the unease and 
 		- the cliff where you fell of from is no longer there just darkness surrounds you
 
 You open the door, the light coming from inside blinds you for a moment. As you regain your sight you see a really busy tavern, people drinking, playing games. The barkeep greats you (scotish accent)
-	- Welcome welcome  come and rest a bit, You look very tired, here on the house (give some healing mead) 
+	- Welcome welcome  come and rest a bit, You look very tired, here on the house (give some healing mead)
+		- if they ask about monsters on whats outside he doesnt know a thing the only thing afecting this parts is the war related to the king
 
 
 - Very busy now cause of the recent skirmishes, and more reasons related to other players
