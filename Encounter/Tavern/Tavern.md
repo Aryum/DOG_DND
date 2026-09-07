@@ -5,7 +5,11 @@ After the fall, you feel in a completly diffrent place, suddenly the unease and 
 
 You open the door, the light coming from inside blinds you for a moment. As you regain your sight you see a really busy tavern, people drinking, playing games. The barkeep greats you (scotish accent)
 	- Welcome welcome  come and rest a bit, You look very tired, here on the house (give some healing mead)
-		- if they ask about monsters on whats outside he doesnt know a thing the only thing afecting this parts is the war related to the king, if you ask him he had it coming
+		- if they ask about monsters on whats outside 
+			- he doesnt know a thing the only thing afecting this parts is the war related to the king, if you ask him he had it coming
+			- or now that you think of it there are some rummors that dark spirit may be lurking arround making man do evil things (talk about nikolai oak), but he is not one for supperstitions
+	- 
+			
 
 
 - Very busy now cause of the recent skirmishes, and more reasons related to other players
