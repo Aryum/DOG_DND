@@ -8,7 +8,7 @@ You open the door, the light coming from inside blinds you for a moment. As you 
 		- if they ask about monsters on whats outside 
 			- he doesnt know a thing the only thing afecting this parts is the war related to the king, if you ask him he had it coming
 			- or now that you think of it there are some rummors that dark spirit may be lurking arround making man do evil things (talk about nikolai oak), but he is not one for supperstitions
-	- 
+	- Quite the characters that came up today, tarot reader, some
 			
 
 
