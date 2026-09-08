@@ -1,4 +1,4 @@
-**Seraphim the lost** born a lord raised to be the successor a long line of kings. Trained from a young age by a [[Scholar]], but his mind did not care for politics or the glamorous life of a king, his heart sought adventure.
+**Seraphim the lost** born a lord raised to be the successor a long line of kings. Trained from a young age by a [[Niels]], but his mind did not care for politics or the glamorous life of a king, his heart sought adventure.
 
 Shortly after he took the throne he started a campaign of conquest trying to fulfill his thirst for glory little did he know what adventures lied ahead of him. A successful battle and his lust was not yet quenched, he ran after the retreating enemy and got lost. Everyone assumed he died and a [[new king]] was elected.
 
