@@ -1,3 +1,5 @@
+Roll constition or smt to check 2 players
+
 You wake up in a dark place, dizzy and confused, not really sure how you got here, you remember very little of what you here doing before. Your body feels numb, unresponsive, you feel the cold air around you but nothing at all at the same time. Fog covers your feet, and the walls radiate a low blueish light. You hear a pulsating babum.  As you start getting up, you notice that you aren't alone in this room. 
 	- if they ask to check what is there roll perception
 		- nat 1 -> surprise attack
