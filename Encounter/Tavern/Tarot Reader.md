@@ -1,5 +1,5 @@
 **Tarot reader**
-Hooded figure that you cannot see the face cause of the shade it makes
+Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme 
 
 Cards
 - The fool - new beginnings
