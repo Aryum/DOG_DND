@@ -28,4 +28,8 @@ Readings
 	[[Niels]]
 		The Tower
 		Death
-			
+	[[Seraphim the lost]]
+		The Chariot
+		The Fool
+			Tears of the father, blood of the son  
+			Through years of dishonor, come undone
