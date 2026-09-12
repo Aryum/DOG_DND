@@ -22,6 +22,7 @@ Readings
 	[[Nikolai Oak]]
 		The lovers, 
 		The hanged man
+			 See the blood running through your hands
 			Bid your farewell to the ones you love
 			Their grief but a fleeting feeling
 			For nature is calling 
