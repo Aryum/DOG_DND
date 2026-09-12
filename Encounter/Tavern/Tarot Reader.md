@@ -28,6 +28,8 @@ Readings
 	[[Niels]]
 		The Tower
 		Death
+			Cling to comfort child, no longer
+			Suffer with pride
 	[[Seraphim the lost]]
 		The Chariot
 		The Fool
