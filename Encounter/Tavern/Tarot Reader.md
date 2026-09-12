@@ -33,3 +33,5 @@ Readings
 		The Fool
 			Tears of the father, blood of the son  
 			Through years of dishonor, come undone
+			Feel the ancient ones guiding your sword  
+			Let fly all your fears and respond to the call
