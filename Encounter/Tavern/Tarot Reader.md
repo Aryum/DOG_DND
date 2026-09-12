@@ -31,6 +31,7 @@ Readings
 		Death
 			Cling to comfort child, no longer
 			Suffer with pride
+			There's nowhere left to run, nowhere left to hide
 	[[Seraphim the lost]]
 		The Chariot
 		The Fool
