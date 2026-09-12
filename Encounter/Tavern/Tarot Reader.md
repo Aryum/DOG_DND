@@ -18,24 +18,28 @@ Cards
 - The chariot - Will power determination, victory through focus and control of oposing forces
 Add more if needed
 
-Readings
-	[[Nikolai Oak]]
-		The lovers, 
-		The hanged man
-			 See the blood running through your hands
-			Bid your farewell to the ones you love
-			Their grief but a fleeting feeling
-			For nature is calling 
-	[[Niels]]
-		The Tower
-		Death
-			Cling to comfort child, no longer
-			Suffer with pride
-			There's nowhere left to run, nowhere left to hide
-	[[Seraphim the lost]]
-		The Chariot
-		The Fool
-			Tears of the father, blood of the son  
-			Through years of dishonor, come undone
-			Feel the ancient ones guiding your sword  
-			Let fly all your fears and respond to the call
+**Readings**
+
+[[Nikolai Oak]]
+	The lovers, 
+	The hanged man
+		See the blood running through your hands
+		Bid your farewell to the ones you love
+		Their grief but a fleeting feeling
+		For nature is calling 
+
+[[Niels]]
+	The Tower
+	Death
+		Bumb lost in time  
+		Hears whispers of a world in an endless night
+		Cling to comfort child, no longer
+		There's nowhere left to run, nowhere left to hide
+	
+[[Seraphim the lost]]
+	The Chariot
+	The Fool
+		Tears of the father, blood of the son  
+		Through years of dishonor, come undone
+		Feel the ancient ones guiding your sword  
+		Let fly all your fears and respond to the call
