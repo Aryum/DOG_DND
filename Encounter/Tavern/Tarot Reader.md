@@ -22,3 +22,10 @@ Readings
 	[[Nikolai Oak]]
 		The lovers, 
 		The hanged man
+			Bid your farewell to the ones you love
+			Their grief but a fleeting feeling
+			For nature is calling 
+	[[Niels]]
+		The Tower
+		Death
+			
