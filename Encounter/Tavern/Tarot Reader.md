@@ -18,3 +18,7 @@ Cards
 - The chariot - Will power determination, victory through focus and control of oposing forces
 Add more if needed
 
+Readings
+	[[Nikolai Oak]]
+		The lovers, 
+		The hanged man

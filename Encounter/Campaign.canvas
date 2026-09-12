@@ -8,22 +8,22 @@
 		{"id":"0609b58bb5372807","type":"file","file":"DOG_DND/Encounter/Tavern/Random Encounters.md","x":-1520,"y":989,"width":365,"height":360},
 		{"id":"9dd3de3d31db7e5d","type":"file","file":"DOG_DND/Encounter/Tavern/Barkeeper.md","x":-1720,"y":465,"width":565,"height":473},
 		{"id":"70e96f14f0bd6fe9","type":"file","file":"DOG_DND/Encounter/Tavern/Tarot Reader.md","x":-360,"y":465,"width":830,"height":540},
-		{"id":"cca03883a329b540","type":"text","text":"Readings","x":560,"y":536,"width":126,"height":60},
 		{"id":"6dd6ab7e051b09cc","type":"file","file":"DOG_DND/Encounter/1st Combat.md","x":-1120,"y":-480,"width":940,"height":700},
-		{"id":"aa3893ee43e124d1","type":"text","text":"[[Nikolai Oak]]\nThe lovers, \nThe hanged man","x":810,"y":461,"width":290,"height":105},
-		{"id":"fc06921db80321e2","type":"text","text":"[[Seraphim the lost]] \nThe Chariot\nThe Fool","x":810,"y":568,"width":290,"height":105},
-		{"id":"9fe907f4c91ff0dc","type":"text","text":"[[Niels]]\nThe Tower\nDeath","x":810,"y":673,"width":290,"height":101},
-		{"id":"7fb3d2bbfc52a220","type":"text","text":"WRITE READING IN TAROT READER","x":1100,"y":465,"width":250,"height":311}
+		{"id":"727c0d0b628ada2d","x":520,"y":591,"width":250,"height":60,"type":"text","text":"Readings\n"},
+		{"id":"aa3893ee43e124d1","type":"text","text":"[[Nikolai Oak]]\nThe lovers, \nThe hanged man","x":960,"y":473,"width":290,"height":105},
+		{"id":"fc06921db80321e2","type":"text","text":"[[Seraphim the lost]] \nThe Chariot\nThe Fool","x":960,"y":580,"width":290,"height":105},
+		{"id":"9fe907f4c91ff0dc","type":"text","text":"[[Niels]]\nThe Tower\nDeath","x":960,"y":685,"width":290,"height":101},
+		{"id":"7fb3d2bbfc52a220","type":"text","text":"WRITE READING IN TAROT READER","x":1250,"y":477,"width":250,"height":311}
 	],
 	"edges":[
-		{"id":"58d52d8d4e09c4ce","fromNode":"cca03883a329b540","fromSide":"right","toNode":"aa3893ee43e124d1","toSide":"left"},
-		{"id":"61e42e8470566b1c","fromNode":"cca03883a329b540","fromSide":"right","toNode":"fc06921db80321e2","toSide":"left"},
-		{"id":"47f58f0b9508ba99","fromNode":"cca03883a329b540","fromSide":"right","toNode":"9fe907f4c91ff0dc","toSide":"left"},
 		{"id":"5201875d58b506f7","fromNode":"6dd6ab7e051b09cc","fromSide":"bottom","toNode":"b5d3df839ecaf25a","toSide":"top"},
 		{"id":"49791fdb05f162f4","fromNode":"b5d3df839ecaf25a","fromSide":"right","toNode":"70e96f14f0bd6fe9","toSide":"left"},
-		{"id":"f6726f94b6d98fba","fromNode":"70e96f14f0bd6fe9","fromSide":"right","toNode":"cca03883a329b540","toSide":"left"},
 		{"id":"7ce634af48a2d420","fromNode":"b5d3df839ecaf25a","fromSide":"left","toNode":"9dd3de3d31db7e5d","toSide":"right"},
 		{"id":"8e2cf416c915ef31","fromNode":"b5d3df839ecaf25a","fromSide":"left","toNode":"0609b58bb5372807","toSide":"right"},
-		{"id":"4442c5c9fb4c9ae0","fromNode":"b5d3df839ecaf25a","fromSide":"right","toNode":"2ec2bc6cf04c9903","toSide":"left"}
+		{"id":"4442c5c9fb4c9ae0","fromNode":"b5d3df839ecaf25a","fromSide":"right","toNode":"2ec2bc6cf04c9903","toSide":"left"},
+		{"id":"887b389b4af7f5c3","fromNode":"70e96f14f0bd6fe9","fromSide":"right","toNode":"727c0d0b628ada2d","toSide":"left"},
+		{"id":"6318d16f523dd100","fromNode":"727c0d0b628ada2d","fromSide":"right","toNode":"aa3893ee43e124d1","toSide":"left"},
+		{"id":"690147bbe21d3d61","fromNode":"727c0d0b628ada2d","fromSide":"right","toNode":"fc06921db80321e2","toSide":"left"},
+		{"id":"15e742b80c07bc8a","fromNode":"727c0d0b628ada2d","fromSide":"right","toNode":"9fe907f4c91ff0dc","toSide":"left"}
 	]
 }
