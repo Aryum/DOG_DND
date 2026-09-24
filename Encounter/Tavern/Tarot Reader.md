@@ -1,5 +1,5 @@
 **Tarot reader**
-Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to shed 
+Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to give blood 
 
 Cards
 - The fool - new beginnings
