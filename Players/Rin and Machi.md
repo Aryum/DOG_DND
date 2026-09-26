@@ -2,4 +2,4 @@
 
 They were a pretty good team, they soon stopped stealing for survival alone and started being more ambitious heists. No longer where they just stealing apples and pick pocketing people from the street, they went after jewlers and tailors, litting fires on one store just to be able to steal another one. 
 
-Even though their misdeeds where gone unnoticed to the law, the [[Revenant gang]] took notice of this havoc and thought they were a perfect match for their group 
+Even though their misdeeds where gone unnoticed to the law, the [[Revenant gang]] took notice of this havoc and thought they were a perfect match for their group and brought them in. 
