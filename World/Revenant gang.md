@@ -1,1 +1,2 @@
-Gang that causes chaos rita nd rosa were part of it once
+Blood thirsty gang known for causing chaos and ruin everywhere they go. 
+

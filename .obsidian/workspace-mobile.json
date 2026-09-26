@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounter/Tavern/Tarot Reader.md",
+                "file": "Encounter/Tavern/Bandits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarot Reader"
+              "title": "Bandits"
             }
           }
         ]
@@ -173,11 +173,11 @@
   "active": "5a53b6965f6bd01f",
   "lastOpenFiles": [
     "World/Revenant gang.md",
+    "Encounter/Tavern/Tarot Reader.md",
     "World/Man-killer Bear.md",
     "Players/Rin and Machi.md",
     "Encounter/1st Combat.md",
     "Encounter/Tavern/Soldiers.md",
-    "Encounter/Tavern/Tarot Reader.md",
     "Encounter/Tavern/Tavern.md",
     "Players/Niels.md",
     "Encounter/Tavern/Bandits.md",
