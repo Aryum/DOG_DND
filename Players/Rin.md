@@ -1,1 +1,1 @@
-**Rin** orn and raised alone on the streets along with [[Machi]], **Rin** w [[Revenant gang]],  
+**Rin** born and raised alone on the streets along with [[Machi]]
