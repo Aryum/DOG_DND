@@ -1,1 +1,1 @@
-Born and raised alone on the streets, **Rin** joined the [[Revenant gang]],  
+**Rin** orn and raised alone on the streets along with [[Machi]], **Rin** w [[Revenant gang]],  
