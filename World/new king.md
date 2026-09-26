@@ -1,1 +1,1 @@
-he sucks and makes [[Thugs]] appear
+he sucks and makes [[Revenant (gang)]] appear
