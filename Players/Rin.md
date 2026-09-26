@@ -1,1 +1,1 @@
-Born and raised on the streets, **Rin** joined the , a bloodthirsty 
+Born and raised alone on the streets, **Rin** joined the [[Revenant gang]],  
