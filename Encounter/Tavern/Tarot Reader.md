@@ -43,3 +43,6 @@ Add more if needed
 		Through years of dishonor, come undone
 		Feel the ancient ones guiding your sword  
 		Let fly all your fears and respond to the call
+		
+[[Rin and Machi]]
+[[Fix]] add cards
