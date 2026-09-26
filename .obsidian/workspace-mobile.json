@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounter/Tavern/Bandits.md",
+                "file": "Encounter/Tavern/Revenant gang member.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bandits"
+              "title": "Revenant gang member"
             }
           }
         ]
@@ -180,7 +180,7 @@
     "Encounter/Tavern/Soldiers.md",
     "Encounter/Tavern/Tavern.md",
     "Players/Niels.md",
-    "Encounter/Tavern/Bandits.md",
+    "Encounter/Tavern/Revenant gang member.md",
     "Encounter/Tavern/Barkeeper.md",
     "Encounter/Tavern/Random Encounters.md",
     "Encounter/Campaign.canvas",

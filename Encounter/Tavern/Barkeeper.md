@@ -7,4 +7,4 @@ Owner of the tavern for many years, so many that he doesnt remember doing anythi
 		-  if they ask about the "dark spirit"
 			-  A group of [[Soldiers]] heard some weird sounds from a nearby house, they went to check it, when they entered they saw a bloodied man and woman and a little girl ravaged on the floor. They tried to put the man out of his misery but he managed to get away. If you ask me the patrols had too much to drink and they confused werewolf for a man, for lucky them to escape with their lives. I  think i saw them here today
 
-- Quite the characters that came up today, [[tarot reader]], some guys that seem up to no good ([[Bandits]]), but they pay well so better not ask any questions, and 
+- Quite the characters that came up today, [[tarot reader]], some guys that seem up to no good ([[Revenant gang member]]), but they pay well so better not ask any questions, and 

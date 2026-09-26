@@ -1,1 +1,0 @@
-- Dressed with some pelts and using a huge fang as a necklace 
