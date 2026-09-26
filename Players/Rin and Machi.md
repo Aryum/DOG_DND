@@ -6,4 +6,4 @@ One day the gang went after the jewels of a town lord, they need a big distracti
 
 But their minds where not meant for cages, and they managed to outwit the guards and escape their grasp. But they knew that escaping prison was just the beginning, they needed something big if they wanted to escape town. They went to the towns armory and lit their gunpowder reserves, fire spread through town in a instant casualties where great but their plan worked this time and escaped.
 
-Tired from bloodshed and havoc, they jumped from town to town trying to settle in somewhere. It took the best part of 2 decades, but they finally managed to start anew. Unfortunately for them  a villager managed to recognize the nasty scar **Machi** had on his face
+Tired from bloodshed and havoc, they jumped from town to town trying to settle in somewhere. It took the best part of 2 decades, but they finally managed to start anew. Unfortunately for them  a villager managed to recognize the nasty scar **Machi** had on his face. **how the fuck i am gonna give a idk if they died**
