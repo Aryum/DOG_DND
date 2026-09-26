@@ -4,4 +4,4 @@ They were a pretty good team, they soon stopped stealing for survival alone and 
 
 Even though their misdeeds where gone unnoticed to the law, the [[Revenant gang]] took notice of this havoc and thought they were a perfect match for their group and welcomed them in. Once cold and alone, now they were part of the most terrifying force of the kingdom.
 
-One day the gang went after the jewels of a town lord, they need a big distraction that would shake the whole town. They lured the infamous [[Man-killer Bear]] into the town 
+One day the gang went after the jewels of a town lord, they need a big distraction that would shake the whole town. They lured the infamous [[Man-killer Bear]] into the town and chaos spread through the town. **Rin** and **Machi** quickly got their treasure and started their run, but unfortunately their distraction turned on them, and on their way out the bear cornered them 
