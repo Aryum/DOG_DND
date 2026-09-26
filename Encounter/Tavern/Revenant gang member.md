@@ -1,2 +1,2 @@
-Dressed with some pelts using the [[Man-killer Bear]] fur, previous belonging to [[Nikolai Oak]], also wears a pendant with Thurisaz Rune (norse rune for wilderness and chaos).
- - inspection check (0 dont notice necklace, 10 or more notices necklace, 20 notices that it seemed to be a huge bear, some parts of the fur are chared)
+Dressed with some pelts using the [[Man-killer Bear]] fur, previous belonging to [[Nikolai Oak]], also wears a pendant with Thurisaz Rune (norse rune for wilderness and chaos), he is playing five finger roulette with 
+ - inspection check (0 dont notice necklace, 10 or more notices necklace, 20 notices that it seemed to be a huge bear, some parts of the fur are chared) [[Rin and Machi]] and [[Nikolai Oak]] if they are ones rolling inspection they are familiar (10) or know (20) that its the man killer bear
