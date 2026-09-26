@@ -1,1 +1,1 @@
-**Rin** born and raised alone on the streets, days were hard 
+**Rin** born and raised alone on the streets, hunger and cold were no strangers to her, 
