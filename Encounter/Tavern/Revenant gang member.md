@@ -1,4 +1,5 @@
 Dressed with some pelts using the [[Man-killer Bear]] fur, previous belonging to [[Nikolai Oak]], also wears a pendant with Thurisaz Rune (norse rune for wilderness and chaos), he is playing five finger roulette with a knife.
  - inspection check (0 dont notice necklace, 10 or more notices necklace, 20 notices that it seemed to be a huge bear, some parts of the fur are charred and notice that the knife is a bloodied jaw bone) [[Rin and Machi]] and [[Nikolai Oak]] if they are ones rolling inspection they are familiar (10) or know (20) that its the man killer bear
  - if fight is issued and someone inspects rune with history check  tell that its the rune of thurisaz (20 explain thats associated with chaos and wilderness and the [[Revenant gang]] took it as their symbol)
+ - resembles one of the killers of [[Nikolai Oak]]'s family, if killed tell that he wasnt the only one taunt them it was easy practice and he loved to hear their screams
  
