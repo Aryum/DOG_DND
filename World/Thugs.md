@@ -1,1 +1,1 @@
-Rising famine and poverty caused by bad ruling made more people turn in to a life of crime 
+Gang that causes chaos rita nd rosa were part of it once
