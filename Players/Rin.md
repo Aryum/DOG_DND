@@ -1,1 +1,1 @@
-Born and raised on the streets, **Rin** joined a gang of criminals known as Revenants, a bloodthirsty 
+Born and raised on the streets, **Rin** joined the , a bloodthirsty 

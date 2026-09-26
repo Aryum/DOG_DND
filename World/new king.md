@@ -1,1 +1,1 @@
-he sucks and makes [[Revenant (gang)]] appear
+he sucks and makes [[Revenant gang]] appear
