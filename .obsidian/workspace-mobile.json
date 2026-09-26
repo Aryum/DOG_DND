@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounter/Tavern/Revenant gang member.md",
+                "file": "Encounter/Tavern/Random Encounters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revenant gang member"
+              "title": "Random Encounters"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "5a53b6965f6bd01f",
   "lastOpenFiles": [
+    "Encounter/Tavern/Revenant gang member.md",
     "World/Revenant gang.md",
     "Encounter/Tavern/Tarot Reader.md",
     "World/Man-killer Bear.md",
@@ -180,7 +181,6 @@
     "Encounter/Tavern/Soldiers.md",
     "Encounter/Tavern/Tavern.md",
     "Players/Niels.md",
-    "Encounter/Tavern/Revenant gang member.md",
     "Encounter/Tavern/Barkeeper.md",
     "Encounter/Tavern/Random Encounters.md",
     "Encounter/Campaign.canvas",
