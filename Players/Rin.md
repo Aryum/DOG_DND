@@ -1,1 +1,1 @@
-**Rin** born and raised alone on the streets, hunger and cold were no strangers to her, theft was the only mean she had to survive in the cruel streets. One day she found she wasn't so alone in the streets and meet with [[Machi]] 
+**Rin** born and raised alone on the streets, hunger and cold were no strangers to her, theft was the only mean she had to survive in the cruel streets. One day she found  the streets weren't so lonely and found another person not  [[Machi]] 
