@@ -1,3 +1,5 @@
 **Rin** born and raised alone on the streets, hunger and cold were no strangers to her, theft was the only mean she had to survive in the cruel streets. One day she found  the streets weren't so lonely and found another person not so different from her **Machi**, another kid familiar with her hardships. They quickly became close and helped each other surviving. 
 
-They were a pretty good team, they soon stopped stealing for survival alone and started being more ambitious heists. No longer where they just stealing apples and pick pocketing people from the street, they went after jewlers and tailors, causing mayhem ever   
+They were a pretty good team, they soon stopped stealing for survival alone and started being more ambitious heists. No longer where they just stealing apples and pick pocketing people from the street, they went after jewlers and tailors, litting fires on one store just to be able to steal another one. 
+
+Even though their misdeeds where unoticed
