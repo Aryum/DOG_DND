@@ -1,2 +1,2 @@
 Dressed with some pelts using the [[Man-killer Bear]] fur, previous belonging to [[Nikolai Oak]], also wears a pendant with Thurisaz Rune (norse rune for wilderness and chaos).
- - inspection check (0 dont notice necklace, 10 or more notices necklace, 20 )
+ - inspection check (0 dont notice necklace, 10 or more notices necklace, 20 notices that it seemed to be a huge bear, some parts of the fur are chared)
