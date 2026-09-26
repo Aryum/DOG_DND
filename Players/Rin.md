@@ -1,1 +1,1 @@
-**Rin** born and raised alone on the streets along with [[Machi]]
+**Rin** born and raised alone on the streets along with [[Machi]], 
