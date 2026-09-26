@@ -1,1 +1,1 @@
-**Rin** born and raised alone on the streets, hunger and cold were no strangers to her, 
+**Rin** born and raised alone on the streets, hunger and cold were no strangers to her, theft was the only means 
