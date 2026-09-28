@@ -47,4 +47,5 @@ Add more if needed
 [[Rin and Machi]]
 	the Emperor (AE)
 		Ash into ash, dust into dust
+		A change in the wind
 [[Fix]] add cards
