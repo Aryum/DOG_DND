@@ -1,5 +1,5 @@
 **Tarot reader**
-Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to give blood 
+Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to give blood  [[fix]] add introduction explaining this
 
 Cards
 - The fool - new beginnings
@@ -45,4 +45,6 @@ Add more if needed
 		Let fly all your fears and respond to the call
 		
 [[Rin and Machi]]
+	the Emperor (AE)
+		Ash into ash, dust into dust
 [[Fix]] add cards
