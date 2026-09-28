@@ -31,7 +31,7 @@ Add more if needed
 [[Niels]]
 	The Tower
 	Death
-		Bumb lost in time  
+		Numb lost in time  
 		Hears whispers of a world in an endless night
 		Cling to comfort child, no longer
 		There's nowhere left to run, nowhere left to hide
