@@ -48,4 +48,5 @@ Add more if needed
 	the Emperor (AE)
 		Ash into ash, dust into dust
 		A change in the wind
+			kinda ass look at the sun the moon the stars
 [[Fix]] add cards
