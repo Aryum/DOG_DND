@@ -5,7 +5,7 @@ Part of [[Seraphim the lost]] party now working for the [[new king]]
 City guard that dealt with [[Revenant gang]] 
 	Honestly i'd just give anything to as far away as I could from that bloodthirsty gang. Ever since that heist no one wants to deal with them, after all who knows what they will invoke next
  Patrol that found [[Nikolai Oak]]
-	 I think they dwell in the dark arts and are summoning spirits that 
+	 I think they dwell in the dark arts and are summoning spirits that control people to do nasty things, to this day i cannot unsee that 
 
 
 [[Fix]]A group of armed soliders are drinking in a corner. 
