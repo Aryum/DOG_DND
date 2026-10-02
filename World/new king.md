@@ -1,1 +1,1 @@
-he sucks and makes [[Revenant gang]] stronger [[Fix]]]
+he sucks and makes [[Revenant gang]] stronger [[Fix]]
