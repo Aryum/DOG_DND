@@ -48,5 +48,7 @@ Add more if needed
 	the Emperor (AE)
 		Ash into ash, dust into dust
 		A change in the wind
+		Journeyed away, far from that place
+		And prayed, none would know you
 			kinda ass look at the sun the moon the stars
 [[Fix]] add cards
