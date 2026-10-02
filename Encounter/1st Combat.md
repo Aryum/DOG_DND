@@ -1,4 +1,4 @@
-Roll constitution wake up players by order, they all have a set amount of time to do a an action until another one wakes up, if they all wake and none made the perception check correctly surprise attack
+Roll constitution wake up players by order, they all have 1 minute of time to do a an action until another one wakes up, if they all wake and none made the perception check correctly surprise attack
 
 You wake up in a dark place, dizzy and confused, not really sure how you got here, you remember very little of what you here doing before. Your body feels numb, unresponsive, you feel the cold air around you but nothing at all at the same time. 
 
@@ -11,11 +11,14 @@ Fog covers your feet, and the walls radiate a low blueish light. You hear a puls
 			- A man with scorched robes
 			- A bloodied hunter
 			- A young man with a broken helmet 
+			- A man in his night robes
+			- A halfing in her nigh robes
 		- nat 20 -> you notice the walls are contracting and expanding at a consistent rate, it feels like you are inside a heart of some sorts. 
 	- if they roll mid to high allow some time for them to interact otherwise just roll to fight
 
 You are Attacked by monsters (oblex spawn masked as things from their lore) 
-	- allow 2- 3 combat rounds until they dissapear, if they manage to kill something reward in boss fight
+	- Soldier
+	- Bear
 	- After fight give description of players if they didnt get one at the beginning
  You suddenly hear a voice echoing inside your head
 	 Give in, surrender and you find peace
@@ -31,4 +34,3 @@ You are Attacked by monsters (oblex spawn masked as things from their lore)
 - Roll to check who is 1st to wake up (constituition? or initiative?)
 - Monsters based on players oblex? oblex spawn?
 - Do not describe players yet cause of the low light
-- A monster that changes shape? and targets last players that hit, players roll a perception check when they are hit or hit (with a melee weapon) the monsters
