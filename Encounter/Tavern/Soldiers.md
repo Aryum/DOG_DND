@@ -1,6 +1,8 @@
 [[fix]] add small description to them
 
-Part of [[Seraphim the lost]] party now working for the [[new king]]
+In a corner of t
+
+Part of [[Seraphim the lost]] party now working for the [[new king]] 
 	Man those were the days, not all this patrol and roaming around to try and keep the few lands we still have. But I believe he will return, and things will go back to it's glory days.
 	(roaming from battlefield to battlefield, conquering new lands. Gaining fame and glory! The feeling of blood rushing not knowing if that was going to be our last battle. That's what being a solider is all about)
 City guard that dealt with [[Revenant gang]] 
