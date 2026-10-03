@@ -51,4 +51,3 @@ Add more if needed
 		A change in the wind
 		Journeyed away, far from that place
 		And prayed, none would know you
-	
