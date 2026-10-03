@@ -1,7 +1,13 @@
 {
 	"nodes":[
-		{"id":"a1f1d8fb34f2f3d5","x":-452,"y":-508,"width":250,"height":60,"type":"text","text":"1st combat\n"},
-		{"id":"c0d4a8a038b34349","x":-452,"y":-320,"width":250,"height":60,"type":"text","text":""}
+		{"id":"afa38aa5078d0280","x":-452,"y":-160,"width":250,"height":60,"type":"text","text":"Tarot reader"},
+		{"id":"c0d4a8a038b34349","x":-452,"y":-260,"width":250,"height":60,"type":"text","text":"Tavern"},
+		{"id":"28ec9aed6a84af26","x":-452,"y":-60,"width":250,"height":60,"type":"text","text":"Final boss\n"},
+		{"id":"a1f1d8fb34f2f3d5","x":-452,"y":-360,"width":250,"height":60,"type":"text","text":"1st combat\n"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"b8e7f94e434ba806","fromNode":"a1f1d8fb34f2f3d5","fromSide":"bottom","toNode":"c0d4a8a038b34349","toSide":"top"},
+		{"id":"ba443d0c9ebf958d","fromNode":"c0d4a8a038b34349","fromSide":"bottom","toNode":"afa38aa5078d0280","toSide":"top"},
+		{"id":"6658da1b0f61e155","fromNode":"afa38aa5078d0280","fromSide":"bottom","toNode":"28ec9aed6a84af26","toSide":"top"}
+	]
 }
