@@ -10,3 +10,8 @@ Other lords took advantage of this situation to expand their lands, and raided t
 
 The enemies finally managed to break their defense and get into the castle seeing that it was an hopeless effort the scholar ran into his study, to try and find some peace in his last moments, he ran and ran but was able to sail through the havoc and reach his library but his body could not handle exhaustion and fell into the ground. 
 
+**Remembers**
+ - Teaching a young prince to become a lord
+ - Him going away on a conquest and him not being found
+ - Having to accept a new king, that made all abled man enlist in the army
+ - Last moment: Burning sensation
