@@ -1,9 +1,9 @@
-**Seraphim the lost** born a lord raised to be the successor a long line of kings. Trained from a young age by a [[Niels]], he spent a lot of time studying how to be a good king,but his mind did not care for politics or the glamorous life of a king, his heart sought adventure.
+**Seraphim the lost** born a lord raised to be the successor a long line of kings. Trained from a young age by a [[Niels]], he spent a lot of time studying how to be a good king, but his mind did not care for politics or the glamorous life of a king, his heart sought adventure.
 
-His father was a peaceful king, but many envied his power and did not agree with his ways. During a feast he was stabbed by 
-[[fix]] father always wanting peace, but still had many enemies that envied him, one day at a feast red wedding type shit his father was murdered. 
+His father was a peaceful king, but many envied his power and did not agree with his ways. During a feast he was stabbed in the back from one of his men, bribed by one of his enemies, the true culprit was never found. The young prince had to fill his father shoes, filled with vengeance on his heart he started a campaign of conquest.
 
-Leaving your young king left alone to rule the Kingdom. the mastermind behind it [[new king]] was never found, leaving empty handed he tried to fill his vengeance he started a campaign of conquest. battle after battle he kept winning, soon his lust for vengeance became thirst for glory, even forsaking his father for seeking peace. But he got too greedy and got lost in the battlefield. Everyone assumed he died and a [[New king]] was elected.
+Battle after battle he kept going, forsaking all that his father and [[Niels]] had teached him. His boldness grew after every victory, he went after stronger enemies
+But he got too greedy and got lost in the battlefield. Everyone assumed he died and a [[New king]] was elected.
 
 Ashamed of letting his short temper get the best of him, he spent years honing his skills, trying to regain his honor and be worthy for the task he never wanted. On his journey he heard news about his kingdom, [fix] learned that [[new king]] fucked it and made the kingdom fall to rot and decay. The time was nigh he started gathering men to regain his birth duty.
 
