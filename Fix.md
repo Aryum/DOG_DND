@@ -1,4 +1,4 @@
 TO DO
-	they remember a new thing after a step (define steps)
-	tarot move to after tavern
+	tarot move to after tavern and gives boon ig they take the blood deal ( and reveal one more aspect of lore)
 	revenant gang member comes to talk with rin and machi
+	
