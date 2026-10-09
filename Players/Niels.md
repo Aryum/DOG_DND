@@ -17,4 +17,4 @@ The enemies finally managed to break their defense and get into the castle seein
  - Last moment: Burning sensation
  
  **Epilogue**
-	You remember your days with the old king, the quiet life you had before all this nightmare, your library, the long afternoons spent teaching the young king the politics the bureaucracy of being a king. You remember his ascension to the throne and how he soon departed on a conquest, against your counsel. You remember the grief you felt when you heard that he got lost in a battle, the pain that it was to accept a new king and the  
+	You remember your days with the old king, the quiet life you had before all this nightmare, your library, the long afternoons spent teaching the young king the politics the bureaucracy of being a king. You remember his ascension to the throne and how he soon departed on a conquest, against your counsel. You remember the grief you felt when you heard that he got lost in a battle, the pain that it was to accept a new king, the anguish of seeing the once prosperous lands being led to ruin and the despair of being sent to the front lines. 
