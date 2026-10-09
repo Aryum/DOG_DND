@@ -15,3 +15,5 @@ The enemies finally managed to break their defense and get into the castle seein
  - Him going away on a conquest and him not being found
  - Having to accept a new king, that made all abled man enlist in the army
  - Last moment: Burning sensation
+ 
+ **Epilogue**

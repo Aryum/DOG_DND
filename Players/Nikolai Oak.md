@@ -11,3 +11,5 @@ He went back to the house to be met with a nightmare in the flesh, his family ra
  - Leaving on a hunt being ambushed but managing to escape
  - Going back home seeing his family murdered
  - Last feeling: Anxiety feeling the one being hunted
+
+ **Epilogue**

@@ -10,6 +10,8 @@ Tired from bloodshed and havoc, they jumped from town to town trying to settle i
 
 **Remembers**
  - Growing up on the streets, stealing for survival
- - Joining a gang and doing a heist with them, but they were caught
- - Managing to get out of the prison
+ - Joining a gang and doing a heist with them, but when escaping being cornored by a beast and being caught
+ - Managing to get out of the prison with one last big boom, running from their past life and starting anew 
  - Last feeling: Peace and quiet
+ 
+ **Epilogue**
