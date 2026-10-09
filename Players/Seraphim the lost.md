@@ -10,6 +10,9 @@ After gathering a small army, the assault began, the enemies morale was low and 
 
 **Remembers**
  - All that he wrote
+ - Being teached by a scholar
  - Last feeling: Really bad headache
 
  **Epilogue**
+	He wakes up, in the middle of a battlefield, his helmet cracked, you finally remember your journey before all these nightmares, these last years bettering yourself, finding out that the new king had led your lands to ruin, and building an army to reclaim the destiny you never asked for. You remember leading the assault again, the feeling of blood rushing through your veins, the thrill of conquest that once . 
+	Sees his kinsman arround you the doors of the castle. (If he finds out who Niels was) You join the assault in the front line,   
