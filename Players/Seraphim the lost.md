@@ -14,5 +14,9 @@ After gathering a small army, the assault began, the enemies morale was low and 
  - Last feeling: Really bad headache
 
  **Epilogue**
-	He wakes up, in the middle of a battlefield, his helmet cracked, you finally remember your journey before all these nightmares, these last years bettering yourself, finding out that the new king had led your lands to ruin, and building an army to reclaim the destiny you never asked for. You remember leading the assault again, the feeling of blood rushing through your veins, the thrill of conquest that once . 
-	Sees his kinsman arround you the doors of the castle. (If he finds out who Niels was) You join the assault in the front line,   
+	You remember your journey before all these nightmares, these last years bettering yourself, finding out that the new king had led your lands to ruin, and building an army to reclaim the destiny you never asked for. You remember leading the assault again, the feeling of blood rushing through your veins, the thrill of battle that made you dissapear once, and jumping in to the front lines again. You wake up, He wakes up, in the middle of a battlefield, your helmet cracked, surrounded by your kinsman, they were able to find you this time. 
+	(what do you wanna do) 
+	As they see you wake up (or make a speech), they find a new strength, you quickly make to the palace doors and  
+		(If he finds out who Niels was) jump to [[Niels]]
+		You find the throne room, as you enter you find the king on the ground laughing, slowly he turns himself towards you he says (drunk)
+			- If you want my crown, you will have to do it over my dead body! has he says this he throws up and then lies flat on the ground
