@@ -18,6 +18,4 @@ After gathering a small army, the assault began, the enemies morale was low and 
 	(what do you wanna do) 
 	As they see you wake up (or make a speech), they find a new strength, you quickly make to the palace doors and  
 		jump to [[Niels]]
-		You find the throne room, as you enter you find the king on the ground laughing, slowly he turns himself towards you he says (drunk)
-			- If you want my crown, you will have to do it over my dead body! has he says this he throws up and then lies flat on the ground (what do you do)
-		You take back the crown as the rightful king, reunited with your old mentor, as wiser, little less hotheaded ruler of the kingdom.
+		
