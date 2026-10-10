@@ -1,4 +1,4 @@
-**Nikolai Oak** was a famous hunter, know far and wide for his collections and trophies of rare animals and monsters, specially known for killing the [[Man-killer Bear]] that was terrorizing a town. He had a wife Hilda Oak as fierce as he was, they used to hunt together until their daughter, Lily Oak was born.
+**Nikolai Oak** was a famous hunter, know far and wide for his collections and trophies of rare animals and monsters. He had a wife Hilda Oak as fierce as he was, they used to hunt together until their daughter, Lily Oak was born.
 
 One day a group part of the [[Revenant gang]] seeing that he left on another hunt tried to snoop in his house steal some of his collections. They entered the house recklessly thinking it would be a fast  and profitable job but they were surprised for the house wasn't left completely unattended, the hunter had a family that quickly rose up to defend the family heirlooms. Bloodshed, screams no words can describe the horrors that were committed that day. The scoundrels got he better end and managed to escape with their loot and lives, unlike the family that now lied wasted at the now empty room where once stood the accomplishments of the family.
 
@@ -8,8 +8,9 @@ He went back to the house to be met with a nightmare in the flesh, his family ra
 
 **Remembers**
  - Being a famous hunter, being known for killing many beasts, specially the[[Man-killer Bear]]
- - Leaving on a hunt being ambushed but managing to escape
+ - Leaving on a hunt for the [[Man-killer Bear]]  being ambushed but managing to escape
  - Going back home seeing his family murdered
  - Last feeling: Anxiety feeling the one being hunted
 
  **Epilogue**
+	You remember a contract for a the [[Man-killer Bear]], you heard that some lunatics had released it into town. You took the gig, just a normal day, you had taken more dangerous beasts before, with some help of your wife Hilda, but she had to stay home to take care of your child. As you leave you kiss your wife goodbye,
