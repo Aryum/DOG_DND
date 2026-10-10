@@ -17,4 +17,7 @@ The enemies finally managed to break their defense and get into the castle seein
  - Last moment: Burning sensation
  
  **Epilogue**
-	You remember your days with the old king, the quiet life you had before all this nightmare, your library, the long afternoons spent teaching the young king the politics the bureaucracy of being a king. You remember his ascension to the throne and how he soon departed on a conquest, against your counsel. You remember the grief you felt when you heard that he got lost in a battle, the pain that it was to accept a new king, the anguish of seeing the once prosperous lands being led to ruin and the despair of being sent to the front lines. 
+	You remember your days with the old king, the quiet life you had before all this nightmare, your library, the long afternoons spent teaching the young king the politics the bureaucracy of being a king. You remember his ascension to the throne and how he soon departed on a conquest, against your counsel. You remember the grief you felt when you heard that he got lost in a battle, the pain that it was to accept a new king, the anguish of seeing the once prosperous lands being led to ruin and the despair of being sent to the front lines, the enemies breaking your defenses, and you making your run to the palace, going to the library, and falling into the ground. You wake up, feeling hot, a candlestick by your side starting to burn your clothes. As you put out the flames you hear men ramming the door, you remove your poor escuse of an armor that the old king had appointed you and switch to your robes. 
+		You hear the voice of his old mentee, (what do you do) (then go back to serahpim)
+		
+	
