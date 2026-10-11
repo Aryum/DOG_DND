@@ -6,7 +6,7 @@ One day the gang went after the jewels of a town lord, they need a big distracti
 
 But their minds where not meant for cages, and they managed to outwit the guards and escape their grasp. But they knew that escaping prison was just the beginning, they needed something big if they wanted to escape town. They went to the towns armory and lit their gunpowder reserves, fire spread through town in a instant casualties where great but their plan worked this time and escaped.
 
-Tired from bloodshed and havoc, they jumped from town to town trying to settle in somewhere. It took the best part of 2 decades, but they finally managed to start anew. Few years passed and they completely turned around their lives, what once was ruled by chaos and pain now had peace and quiet. Unfortunately for them it did not last much longer. Some soldiers doing rounds in their neighboring villages recognized the scar Machi had on his face. They didnt even have time to react, the guards came down on them, restrained them and beating them hard in the head.
+Tired from bloodshed and havoc, they jumped from town to town trying to settle in somewhere. It took the best part of 2 decades, but they finally managed to start anew. Few years passed and they completely turned around their lives, what once was ruled by chaos and pain now had peace and quiet. Unfortunately for them it did not last much longer. Some soldiers doing rounds in their neighboring villages recognized the scar Machi had on his face. They didnt even have time to react, the guards came down on them, and remeber nothing but darkness after that.
 
 **Remembers**
  - Growing up on the streets, stealing for survival
@@ -15,3 +15,5 @@ Tired from bloodshed and havoc, they jumped from town to town trying to settle i
  - Last feeling: Peace and quiet
  
  **Epilogue**
+	 You remember the life on the streets, hunger, cold and alone, until you met (the other one). You remember becoming close, looking out for each other on the streets, stealing together, running together. 
+	 Days became simpler and your audacity bigger. You started being bolder, no longer just looking for food, you looked for shiny new things, gold, jewls fine clothing. Things arround the whole town started dissapearing and noone took notice,
