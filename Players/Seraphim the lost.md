@@ -15,6 +15,6 @@ After gathering a small army, the assault began, the enemies morale was low and 
 
  **Epilogue**
 	You remember your journey before all these nightmares, these last years bettering yourself, finding out that the new king had led your lands to ruin, and building an army to reclaim the destiny you never asked for. 
-	You remember leading the assault again, the feeling of blood rushing through your veins, the thrill of battle that made you dissapear once, and jumping in to the front lines again. You wake up, He wakes up, in the middle of a battlefield, your helmet cracked, surrounded by your kinsman, they were able to find you this time. 
+	You remember leading the assault again, the feeling of blood rushing through your veins, the thrill of battle that made you dissapear once, and jumping in to the front lines again. You wake up, He wakes up, in the middle of a battlefield, your helmet cracked, surrounded by your kinsman, they were able to find you this time. (whats on your head)
 	As they see you wake up, they find a new strength, you quickly make to the palace 
 		jump to [[Niels]]
