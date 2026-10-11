@@ -10,10 +10,12 @@ Tired from bloodshed and havoc, they jumped from town to town trying to settle i
 
 **Remembers**
  - Growing up on the streets, stealing for survival
- - Joining a gang and doing a heist with them, but when escaping being cornored by a beast and being caught
+ - Joining a gang and doing a heist with them, but when escaping being cornered by a beast and being caught
  - Managing to get out of the prison with one last big boom, running from their past life and starting anew 
  - Last feeling: Peace and quiet
  
  **Epilogue**
 	 You remember the life on the streets, hunger, cold and alone, until you met (the other one). You remember becoming close, looking out for each other on the streets, stealing together, running together. 
-	 Days became simpler and your audacity bigger. You started being bolder, no longer just looking for food, you looked for shiny new things, gold, jewls fine clothing. Things arround the whole town started dissapearing and noone took notice,
+	 Days became simpler and your audacity bigger. You started being bolder, no longer just looking for food, you looked for shiny new things, gold, jewels fine clothing. Things around the whole town started disappearing and to the law its was a freak accident , supernatural event. But your deeds werent completely unoticed a gang known for their love of chaos and havoc took you in, as their newest disciples.
+	 You started doing jobs for them, stealing, murdering burning, anything and anyone who came upon you. One day you were tasked with stealing some lords treasure, the most ambitious heist to date. Big pay required a big distraction, some of your comrades decided to lure the man eater bear into town, as he spread terror and horror through town you took the chance and went for the gold. Quick in quick out you thought, noone would ever know you were there, but something did take notice, the thing that allowed you in stopped your way out. You were cornered by the bear, he jumped on Machi and slashed him on his face, Rin quickly grabbed a nearby torch and threw it on the bear scaring of the beast and saving Machi from further wounds. As you tried to get back on your feet the guards coming, your luck had run dry, and they put you to jail.
+	  But your minds where not meant to be caged,
