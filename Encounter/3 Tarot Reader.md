@@ -5,10 +5,8 @@ Hooded figure that you cannot see the face cause of the shade it makes only spea
 	ONLY GIVE DESCRIPTION IF THEY ALL TAKE
 
 You see a statue on a pedestal[[fix]] wtf is the statue about, with a weird contraption in front of it. It has five hole with a lever on the middle and an iscription saying. 
-	Broken thought
-		
-	Many battles fought 
-	you must know
+	A price you must pay
+	
 
 
 Cards
