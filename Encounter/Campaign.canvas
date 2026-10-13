@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"b3676363d1d26e50","type":"text","text":"[[1 Entering Combar]]","x":-620,"y":-460,"width":250,"height":60},
+		{"id":"b3676363d1d26e50","type":"text","text":"[[1 Entering Combat]]","x":-620,"y":-460,"width":250,"height":60},
 		{"id":"e672a65a3107e6cb","type":"text","text":"","x":-80,"y":-460,"width":250,"height":60},
 		{"id":"db1ef4d8535efafe","type":"text","text":"[[2 Tavern]]","x":-620,"y":-254,"width":250,"height":60},
 		{"id":"410bd6a8d520d89b","type":"text","text":"[[Barkeeper]]","x":-260,"y":-254,"width":250,"height":60},

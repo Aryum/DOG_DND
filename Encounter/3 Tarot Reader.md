@@ -1,6 +1,12 @@
 **Tarot reader**
-Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to give blood  [[fix]] add introduction explaining this
+Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to give blood  [[fix]] add introduction explaining this [[fix]] add boon if they want
 	- If your fortune you must know your blood must flow
+**!!!!ATTENTION!!!!** 
+	ONLY GIVE DESCRIPTION IF THEY ALL TAKE
+
+You see a statue on a pedestal[[fix]] wtf is the statue about. In front of it its a table, with five 
+
+
 Cards
 - The fool - new beginnings
 - The magician - willpower, resourceful, turning ideas into action
