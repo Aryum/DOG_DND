@@ -20,7 +20,7 @@ You are Attacked by monsters (oblex spawn masked as things from their lore)
 	- Soldier
 	- Bear
 	- Young noble
-	- After fight give description of players if they didnt get one at the beginning
+	- After fight give description of players if they didnt get one at the beginning [[fix]] add description to players in their 
  You suddenly hear a voice echoing inside your head
 	 Give in, surrender and you find peace
  
