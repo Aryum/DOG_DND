@@ -6,13 +6,13 @@ Fog covers your feet, and the walls radiate a low blueish light. You hear a puls
 	- if they ask to check what is there roll perception
 		- nat 1 -> surprise attack
 		- low -> as you get up the monsters appear 
-		- mid notice how many figures that dont look in a good shape
+		- mid notice how many 4 other figures that dont look in a good shape
 		- high give description of figures
 			- A man with scorched robes
 			- A bloodied hunter
 			- A young man with a broken helmet 
 			- A man in his night robes
-			- A halfing in her nigh robes
+			- A halfing in her night robes
 		- nat 20 -> you notice the walls are contracting and expanding at a consistent rate, it feels like you are inside a heart of some sorts. 
 	- if they roll mid to high allow some time for them to interact otherwise just roll to fight
 
