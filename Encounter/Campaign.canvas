@@ -1,19 +1,9 @@
 {
 	"nodes":[
-		{"id":"afa38aa5078d0280","type":"text","text":"Tarot reader","x":-452,"y":-160,"width":250,"height":60},
-		{"id":"c0d4a8a038b34349","type":"text","text":"Tavern","x":-452,"y":-260,"width":250,"height":60},
-		{"id":"28ec9aed6a84af26","type":"text","text":"Final boss\n","x":-452,"y":-60,"width":250,"height":60},
-		{"id":"a1f1d8fb34f2f3d5","type":"text","text":"1st combat\n","x":-452,"y":-360,"width":250,"height":60},
-		{"id":"7219ee12392b1cf7","x":-472,"y":129,"width":250,"height":60,"type":"text","text":"give description of last moments of everyone\n"},
-		{"id":"7fbcc746b94bce06","x":-472,"y":280,"width":250,"height":60,"type":"text","text":"ask how you feel"},
-		{"id":"a5fbe038639acd40","x":-5,"y":157,"width":250,"height":60,"type":"text","text":"guh?"}
+		{"id":"b3676363d1d26e50","x":-620,"y":-460,"width":250,"height":60,"type":"text","text":"[[1st Combat]]"},
+		{"id":"e672a65a3107e6cb","x":-60,"y":-470,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
-		{"id":"b8e7f94e434ba806","fromNode":"a1f1d8fb34f2f3d5","fromSide":"bottom","toNode":"c0d4a8a038b34349","toSide":"top"},
-		{"id":"ba443d0c9ebf958d","fromNode":"c0d4a8a038b34349","fromSide":"bottom","toNode":"afa38aa5078d0280","toSide":"top"},
-		{"id":"6658da1b0f61e155","fromNode":"afa38aa5078d0280","fromSide":"bottom","toNode":"28ec9aed6a84af26","toSide":"top"},
-		{"id":"f1793101db9b0b54","fromNode":"28ec9aed6a84af26","fromSide":"bottom","toNode":"7219ee12392b1cf7","toSide":"top"},
-		{"id":"6cfe3cc33daf03d9","fromNode":"7219ee12392b1cf7","fromSide":"bottom","toNode":"7fbcc746b94bce06","toSide":"top"},
-		{"id":"d83a62558b841fe8","fromNode":"7219ee12392b1cf7","fromSide":"right","toNode":"a5fbe038639acd40","toSide":"left"}
+		{"id":"80f55a6b7796b41a","fromNode":"b3676363d1d26e50","fromSide":"right","toNode":"e672a65a3107e6cb","toSide":"left"}
 	]
 }

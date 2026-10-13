@@ -32,6 +32,3 @@ You are Attacked by monsters (oblex spawn masked as things from their lore)
 
 
 
-- Roll to check who is 1st to wake up (constituition? or initiative?)
-- Monsters based on players oblex? oblex spawn?
-- Do not describe players yet cause of the low light
