@@ -6,8 +6,8 @@ Hooded figure that you cannot see the face cause of the shade it makes only spea
 
 You see a statue on a pedestal[[fix]] wtf is the statue about, with a weird contraption in front of it. It has five hole with a lever on the middle and an iscription saying. 
 	For your fortune told
-	A price you must pay
-	You blood you must withold
+	A price you ca pay
+	Render thy blood you must withold
 	
 	
 
