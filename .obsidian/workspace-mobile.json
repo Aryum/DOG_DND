@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fix.md",
+                "file": "Encounter/3 Tarot Reader.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fix"
+              "title": "3 Tarot Reader"
             }
           }
         ],
@@ -187,6 +187,7 @@
   },
   "active": "9a68afc11fef7398",
   "lastOpenFiles": [
+    "Fix.md",
     "Encounter/4 Final Boss.md",
     "Encounter/3 Tarot Reader.md",
     "Encounter/2 Tavern.md",
@@ -197,7 +198,6 @@
     "Encounter/Tavern/Random Encounters.md",
     "Encounter/Tavern/Barkeeper.md",
     "Players/Rin and Machi.md",
-    "Fix.md",
     "World/Revenant gang.md",
     "World/Man-killer Bear.md",
     "Encounter/1st Combat.md",
