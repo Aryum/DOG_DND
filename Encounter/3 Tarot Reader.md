@@ -4,8 +4,7 @@ Hooded figure that you cannot see the face cause of the shade it makes only spea
 **!!!!ATTENTION!!!!** 
 	ONLY GIVE DESCRIPTION IF THEY ALL TAKE
 
-You see a statue on a pedestal[[fix]] wtf is the statue about, with a weird contraption in front of it. It has five small slots. With a description
-	Insight requires sacrifice.
+You see a statue on a pedestal[[fix]] wtf is the statue about, with a weird contraption in front of it. It has five daggers on top of it and five holes on top of it. Beneath each hole there is a bowl with an inscription, "Pain provides insight". [[fix]]
 
 
 Cards
