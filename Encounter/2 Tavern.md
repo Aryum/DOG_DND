@@ -3,5 +3,5 @@ After the fall, you feel in a completly diffrent place, suddenly the unease and 
 	- try to go back? 
 		- the cliff where you fell of from is no longer there just darkness surrounds you
 
-You open the door, the light coming from inside blinds you for a moment. As you regain your sight you see a really busy tavern, people drinking, playing games. The [[Barkeeper]] greats you. (scotish accent). There are the [[Soldiers]] and [[Revenant gang member]] when they go to sleep
+You open the door, the light coming from inside blinds you the sound defeans you. Just a moment ago you could barely see your feet,  you could hear your own thoughts. As you regain regain your senses you notice that you are inside a tavern. The uneasyness you felt, people drinking, playing games. The [[Barkeeper]] greats you. (scotish accent). There are the [[Soldiers]] and [[Revenant gang member]] when they go to sleep
 
