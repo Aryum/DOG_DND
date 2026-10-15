@@ -1,7 +1,8 @@
 **Tarot reader**
 Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to give blood  [[fix]] add introduction explaining this [[fix]] add boon if they want
 	- Rhymes? If your fortune you must know your blood must flow. 
-	- 
+	- From your flesh insight is formed
+	- Fortune damns hesitation 
 	- keywords? 
 	
 **!!!!ATTENTION!!!!** 
