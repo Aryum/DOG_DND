@@ -8,7 +8,7 @@ Hooded figure that you cannot see the face cause of the shade it makes only spea
 **!!!!ATTENTION!!!!** 
 	ONLY GIVE DESCRIPTION after THEY ALL TAKE
 
-You see a statue on a pedestal[[fix]] wtf is the statue about, with a weird contraption in front of it. It has five daggers on top of it and five holes on top of it. Beneath each hole there is a bowl with an inscription, "Pain provides insight". [[fix]]
+You see a statue on a pedestal[[fix]] wtf is the statue about, with a weird contraption in front of it. It has five daggers on top of it and five holes on top of it. Beneath each hole there is a bowl with an inscription, "Pain provides insight". [[fix]] give an option to either stab themselves or break the dagger or smt
 
 
 Cards
