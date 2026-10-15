@@ -1,7 +1,7 @@
 **Tarot reader**
 Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to give blood  [[fix]] add introduction explaining this [[fix]] add boon if they want
 	- Rhymes? If your fortune you must know your blood must flow. 
-	- Your flesh 
+	- 
 	- keywords? 
 	
 **!!!!ATTENTION!!!!** 
@@ -60,3 +60,4 @@ Add more if needed
 		A change in the wind
 		Journeyed away, far from that place
 		And prayed, none would know you
+		[[Fix]] just says she they already know,  say something that they found peace and to have faith in redemption 
