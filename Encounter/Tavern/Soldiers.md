@@ -7,4 +7,4 @@ City guard that dealt with [[Revenant gang]]
  Patrol that found [[Nikolai Oak]]
 	 I think they dwell in the dark arts and are summoning spirits that control people to do nasty things, to this day i wish i could unsee that room, all that blood, his screams still ring in my ears and worse of all i have this nasty scar so I can't ever forget that cursed night
 
-As they stop their conversation they look at you up and down. One of them asks, you guys seem familiar have I seen you before?
+As they stop their conversation they look at you up and down. One of them asks, you guys seem familiar have I seen you before? (if no interaction they say they have to go back to their )
