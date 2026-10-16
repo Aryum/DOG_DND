@@ -1,4 +1,4 @@
-After the fall, you feel that you are in a completely different place, you can no longer hear the pulsating beat, the air around you feels warmer, more welcoming.
+After the fall, you feel that you are in a completely different place, you can no longer hear the pulsating beat, the air around you feels warmer, more welcoming. Still your eyes can only see a door with some light coming from the small gr
 
 you feel in a completely different place, suddenly  you feel a bit more confortable, like you are in a familiar place.  In front of you there lays a door  with light coming out of the small gaps between the frame.
 	- they can open the door
