@@ -9,4 +9,4 @@ City guard that dealt with [[Revenant gang]]
 
 As they stop their conversation they look at you up and down. One of them asks, you guys seem familiar have I seen you before? (if no interaction they say they have to go back to their rounds) 
 
-The [[Barkeeper]] come 
+The [[Barkeeper]] comes back 
