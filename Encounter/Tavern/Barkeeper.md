@@ -1,3 +1,4 @@
+
 Owner of the tavern for many years, so many that he doesnt remember doing anything else. Speaks in a scotish accent (good luck).
 - Welcome welcome  come and rest a bit, You look very tired, here on the house. (give some healing mead).
 	- if they ask about monsters on whats outside 
