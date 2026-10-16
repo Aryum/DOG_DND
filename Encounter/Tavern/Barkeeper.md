@@ -14,4 +14,4 @@ Sending them off
 After coming back
 	- Sorry for the wait lads. busy day today. I hope it quenches ya hunger
 		- He hands you a platter filled with meat and many kinds of cheeses.  A basket full with bread. And a big bowl of carrot soup.
-	 - I will leave you 
+	 - Oh i almost forgot, ya rooms are read
