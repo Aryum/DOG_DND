@@ -3,21 +3,24 @@
 		{"id":"b3676363d1d26e50","type":"text","text":"[[1 Entering Combat]]","x":-620,"y":-460,"width":250,"height":60},
 		{"id":"e672a65a3107e6cb","type":"text","text":"","x":-80,"y":-460,"width":250,"height":60},
 		{"id":"db1ef4d8535efafe","type":"text","text":"[[2 Tavern]]","x":-620,"y":-254,"width":250,"height":60},
-		{"id":"410bd6a8d520d89b","type":"text","text":"[[Barkeeper]]","x":-260,"y":-254,"width":250,"height":60},
-		{"id":"38840ddda4855a50","type":"text","text":"Sleep","x":-260,"y":-20,"width":250,"height":60},
-		{"id":"54acf963477cc79c","type":"text","text":"[[Revenant gang member]]","x":113,"y":-19,"width":250,"height":60},
-		{"id":"5c3d50eeb5d518db","type":"text","text":"[[Soldiers]]","x":113,"y":-254,"width":250,"height":60},
-		{"id":"3868ce579b72197b","type":"text","text":"[[3 Tarot Reader]]","x":-260,"y":200,"width":250,"height":60},
-		{"id":"87cbc0c938360943","type":"text","text":"[[4 Final Boss]]","x":-260,"y":340,"width":250,"height":60}
+		{"id":"410bd6a8d520d89b","type":"text","text":"[[Barkeeper]] greets you","x":-260,"y":-254,"width":250,"height":60},
+		{"id":"54acf963477cc79c","type":"text","text":"","x":460,"y":40,"width":250,"height":60},
+		{"id":"5c3d50eeb5d518db","type":"text","text":"[[Soldiers]] notice you","x":-260,"y":-130,"width":250,"height":60},
+		{"id":"d5b49c0a8aee105c","type":"text","text":"[[Barkeeper]] tells the rooms are ready","x":-260,"y":-20,"width":250,"height":60},
+		{"id":"38840ddda4855a50","type":"text","text":"Go to rooms where [[Revenant gang member]] is waiting in the dark","x":-260,"y":70,"width":250,"height":90},
+		{"id":"f6cd68950fb797e3","x":-256,"y":229,"width":250,"height":60,"type":"text","text":"Sleep"},
+		{"id":"3868ce579b72197b","type":"text","text":"[[3 Tarot Reader]]","x":-620,"y":460,"width":250,"height":60},
+		{"id":"87cbc0c938360943","type":"text","text":"[[4 Final Boss]]","x":-620,"y":640,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"80f55a6b7796b41a","fromNode":"b3676363d1d26e50","fromSide":"right","toNode":"e672a65a3107e6cb","toSide":"left"},
 		{"id":"d233908895a20d1b","fromNode":"b3676363d1d26e50","fromSide":"bottom","toNode":"db1ef4d8535efafe","toSide":"top"},
 		{"id":"91b7c2d3495b2c6e","fromNode":"db1ef4d8535efafe","fromSide":"right","toNode":"410bd6a8d520d89b","toSide":"left"},
-		{"id":"49a5f41551b89a79","fromNode":"410bd6a8d520d89b","fromSide":"right","toNode":"5c3d50eeb5d518db","toSide":"left"},
-		{"id":"9385c53d31429384","fromNode":"410bd6a8d520d89b","fromSide":"bottom","toNode":"38840ddda4855a50","toSide":"top"},
-		{"id":"b127d9dfecb4f279","fromNode":"38840ddda4855a50","fromSide":"right","toNode":"54acf963477cc79c","toSide":"left"},
-		{"id":"5a1b04461f5f4a8b","fromNode":"38840ddda4855a50","fromSide":"bottom","toNode":"3868ce579b72197b","toSide":"top"},
-		{"id":"b4b2bed9cc9de671","fromNode":"3868ce579b72197b","fromSide":"bottom","toNode":"87cbc0c938360943","toSide":"top"}
+		{"id":"a1bf3bebf2da76b8","fromNode":"d5b49c0a8aee105c","fromSide":"bottom","toNode":"38840ddda4855a50","toSide":"top"},
+		{"id":"8b6f2cc866cb0155","fromNode":"410bd6a8d520d89b","fromSide":"bottom","toNode":"5c3d50eeb5d518db","toSide":"top"},
+		{"id":"63117a8a335c5f24","fromNode":"5c3d50eeb5d518db","fromSide":"bottom","toNode":"d5b49c0a8aee105c","toSide":"top"},
+		{"id":"0090506f686bebe0","fromNode":"38840ddda4855a50","fromSide":"bottom","toNode":"f6cd68950fb797e3","toSide":"top"},
+		{"id":"9aedb7c2825b543c","fromNode":"f6cd68950fb797e3","fromSide":"bottom","toNode":"3868ce579b72197b","toSide":"top"},
+		{"id":"849e7d15231e6e2a","fromNode":"3868ce579b72197b","fromSide":"bottom","toNode":"87cbc0c938360943","toSide":"top"}
 	]
 }
