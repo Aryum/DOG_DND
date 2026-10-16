@@ -1,4 +1,4 @@
-After the fall, you feel that you are in a completely different place, you can no longer hear the pulsating beat, the air around you feels warmer, more welcoming. You look around, the cliff that open  Still your eyes can only see a door with some light coming from the small gaps between the frame.
+After the fall, you feel that you are in a completely different place, you can no longer hear the pulsating beat, the air around you feels warmer, more welcoming. You look around, the cliff where you fell from is no longer there. In front of you lays a door with some light coming from the small gaps between the frame.
 
 - they can open the door
 - try to go back? 
