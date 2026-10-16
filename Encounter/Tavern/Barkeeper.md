@@ -1,13 +1,14 @@
-You hear an old dwarf shouting from behind the counter. "Come in come in! Welcome to TheRest "
-Owner of the tavern for many years, so many that he doesnt remember doing anything else. Speaks in a scotish accent (good luck).
-- Welcome welcome  come and rest a bit, You look very tired, here on the house. (give some healing mead).
-	- if they ask about monsters on whats outside 
-		- he doesnt know a thing the only thing afecting this parts is the war related to the king, if you ask him he had it coming
-	- if he heard anything unsual
-		- Nothing too far from the usual, a few queer folk here and there, but thats business. 
-	 - Offer them sleep they seem tired, on the house 
-		 - if they accept, will have to wait a bit before bed his wife needs to prepare the beds (scream BRENNA PREPARE THA ROOMS WE HAVE GUESTS)
-	 - Choose a table and I will bring ya some bites to eat, make yourselves at home. As you sit you overhear some [[Soldiers]] in the next table talking
+- Come in come in! Welcome to The Sleepy Mug! You lot look like a trampled rabbit, my good lord! What happened to you?
+- (respond to wtv they say)
+- You know what, me old pa always told me to be kind to wanderers. You need not worry about anything tonight, you may pass the night here, on the house. (BRENNA PREPARE THA ROOMS WE HAVE GUESTS). You must be thirsty here, enjoy the best flagon in the realm (bring uncles pear thing)! (heals them normal pot) What do ya think?
+Questions
+- if they ask about monsters on whats outside 
+		- monsters? here? my my your weariness has consumed your senses. Theres nothing in these lands more than the occasional thug.
+- if he heard anything unsual
+	- Nothing too far from the usual, a few queer folk here and there, but thats business. 
+
+Sending them off
+ - Well lads choose any table!  I be with a in a minute with some bites to eat, make yourselves at home. As you sit you overhear some [[Soldiers]] in the next table talking
 
 
 After coming back
