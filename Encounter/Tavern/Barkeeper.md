@@ -12,5 +12,5 @@ Sending them off
 
 
 After coming back
-	- Sorry for the wait lads. busy day today. 
-		- He hands you a platter filled with meat and many kinds of cheeses. 
+	- Sorry for the wait lads. busy day today. I hope it quenches ya hunger
+		- He hands you a platter filled with meat and many kinds of cheeses.  A basket full with bread
