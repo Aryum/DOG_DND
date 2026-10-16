@@ -1,4 +1,4 @@
-After the fall, you feel in a completely different place, suddenly  you feel a bit more confortable, like you are in a familiar place.  In front of you there lays a door  with light coming out of the small gaps between the frame.
+After the fall, you see only pitch darkness. The pulsating beat is now you feel in a completely different place, suddenly  you feel a bit more confortable, like you are in a familiar place.  In front of you there lays a door  with light coming out of the small gaps between the frame.
 	- they can open the door
 	- try to go back? 
 		- the cliff where you fell of from is no longer there just darkness surrounds you
