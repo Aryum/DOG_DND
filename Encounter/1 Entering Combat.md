@@ -16,11 +16,11 @@ Fog covers your feet, and the walls radiate a low blueish light. You hear a puls
 		- nat 20 -> you notice the walls are contracting and expanding at a consistent rate, it feels like you are inside a heart of some sorts. 
 	- if they roll mid to high allow some time for them to interact otherwise just roll to fight
 
-You are Attacked by monsters (oblex spawn masked as things from their lore) 
-	- Soldier
-		-
-	- Bear
-	- Young noble
+You are Attacked by monsters (oblex spawn masked as things from their lore, when they take damage have a small description) 
+	- An armored man holding a spear
+		- 
+	- A bear the size of a wagon
+	- A hooded man Yielding a dagger
 
  You suddenly hear a voice echoing inside your head
 	 Give in, surrender and you find peace
