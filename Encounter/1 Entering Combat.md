@@ -14,8 +14,8 @@ You take a long time regaining your senses, as start getting up, you look around
 
 - if they ask to check what is there roll perception
 		- low -> surprise attack -> the darkness is too deep you dont see much else
-		- good -> You see 3 figures 
-		- nat 20 -> you notice the walls are contracting and expanding at a consistent rate, it feels like you are inside a heart of some sorts.  You see a bear the size coming from the deep fog, , they dont seem to have noticed yet, you have a surprise attack, 
+		- good ->   
+		- nat 20 -> You see a bear the size coming from the deep fog, , they dont seem to have noticed yet, you have a surprise attack, 
 
 You are Attacked by monsters (oblex spawn masked as things from their lore, when they take damage have a small description) 
 	- An armored man holding a spear
