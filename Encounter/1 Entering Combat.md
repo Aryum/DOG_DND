@@ -1,6 +1,6 @@
 Roll constitution wake up players by order, they all have 1 minute of time to do a an action until another one wakes up, if they all wake and none made the perception check correctly surprise attack
 
-You wake up in a dark place, dizzy and confused, not really sure how you got here, you remember very little of what you here doing before. Your body feels numb, unresponsive, you feel the cold air around you. Fog covers your feet, and the walls radiate a low blueish light. You hear a pulsating babum.  As you start getting up, you look around and notice that you are not alone in this dark place, there's someone dressed in some scorched robes, another   
+You wake up in a dark place, dizzy and confused, not really sure how you got here, you remember very little of what you here doing before. Your body feels numb, unresponsive, you feel the cold air around you. Fog covers your feet, and the walls radiate a low blueish light. You hear a pulsating babum.  As you start getting up, you look around and notice that you are not alone in this dark place, there's someone dressed in some scorched robes, another one in armor with a broken helmet,   
 
 
 - if they ask to check what is there roll perception
