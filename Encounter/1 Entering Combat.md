@@ -18,6 +18,7 @@ Fog covers your feet, and the walls radiate a low blueish light. You hear a puls
 
 You are Attacked by monsters (oblex spawn masked as things from their lore) 
 	- Soldier
+		-
 	- Bear
 	- Young noble
 
