@@ -9,23 +9,14 @@ You take a long time regaining your senses, as start getting up, you look around
 	- [[Nikolai Oak]] someone warping his wounds with his ravaged clothes, 
 	- [[Rin and Machi]] 
 		- If its one of them waking up -> you see your partner trying to wake you up
-		- if they both did good rolls -> 
+		- if they both did good rolls -> two people helping each other removing of their handcuffs
 
 
 - if they ask to check what is there roll perception
-		- nat 1 -> surprise attack
-		- low -> as you get up the monsters appear 
-		- mid notice how many 4 other figures that dont look in a good shape
-	- high give description of figures
-			- A man with scorched robes
-			- A bloodied hunter
-			- A young man with a broken helmet 
-			- A man in his night robes
-			- A halfing in her night robes
-		- nat 20 -> you notice the walls are contracting and expanding at a consistent rate, it feels like you are inside a heart of some sorts. 
-	- if they roll mid to high allow some time for them to interact otherwise just roll to fight
+		- low -> surprise attack -> the darkness is too deep you dont see much else
+		- good -> You see 3 figures 
+		- nat 20 -> you notice the walls are contracting and expanding at a consistent rate, it feels like you are inside a heart of some sorts.  You see a bear the size coming from the deep fog, , they dont seem to have noticed yet, you have a surprise attack, 
 
-[[Fix]]
 You are Attacked by monsters (oblex spawn masked as things from their lore, when they take damage have a small description) 
 	- An armored man holding a spear
 		- 
