@@ -11,11 +11,12 @@ You take a long time regaining your senses, as start getting up, you look around
 		- If its one of them waking up -> you see your partner trying to wake you up
 		- if they both did good rolls -> two people helping each other removing of their handcuffs
 
+[[Fix]] draft a map
 Allow some time to roll play  if they ask to check what is there roll perception, 
 	- nat 1 -> surprise attack -> the darkness is too deep you don't see much else
 	- low -> the darkness is too deep you don't see much else
 	- good -> You see from the other side of the cavern a fog wall and from it 3 creatures emerging, an armored men holding a spear, an hooded man yielding a dagger, and a bear the size of a wagon 
-	- nat 20 -> You see that on the other side of a cavern there is a big fog wall, and it appears to be movement inside it.
+	- nat 20 -> You see that on the other side of a cavern there is a big fog wall, and it appears to be movement inside it. You see emerging from it, an armored men holding a spear, an hooded man yielding a dagger, and a bear the size of a wagon. They dont seem to notice you, 
 if they dont roll
 	You suddenly hear a roar coming behind you, as you look at it you see a bear the size of a wagon and coming behind it a man holding a spear an a hooded man with a dagger.
 
