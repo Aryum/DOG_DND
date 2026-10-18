@@ -1,7 +1,9 @@
 He takes a glance at you, and says.
-	- You aint from arround here are ya?
-	- Huh i could tell that face / You aint fooling anyone with that face.  
-He leaves his shadowy corner and you can see him better
+- You aint from arround here are ya?
+	- Huh i could tell that face  
+	- You aint fooling anyone with that face. 
+He leaves his shadowy corner and comes towards you, as he comes to the light you see that he using a using a bear hood with parts of his skin charred and his face is covered with rags. He takes a better look at Rin and Machi with a weird familiar expression.
+- 
 
 
 
