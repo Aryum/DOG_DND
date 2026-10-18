@@ -1,5 +1,5 @@
 He looks at you, and says.
-	- Fresh 
+	- Fresh blood (sniff), love me the smell  
 
 
 
