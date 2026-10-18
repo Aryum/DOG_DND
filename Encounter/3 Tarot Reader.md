@@ -1,4 +1,10 @@
 **Tarot reader**
+After everything that happened that day you fall fast asleep, hoping that when you wake up all of it was just part of a convoluted nightmare. 
+As the night progresses you starting dreaming of what it seems to be others peoples lives, you see a scholar teaching a young prince, you see a man leading the front lines of a battle field, two young kids stealing food from the streets and a man teaching his young daughter how to yield a bow. 
+
+
+You wake up no longer in your room but inside a temple. The walls are
+
 Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to give blood  [[fix]] add introduction explaining this [[fix]] add boon if they want
 	- Rhymes? If your fortune you must know your blood must flow. 
 	- From your flesh insight is formed
