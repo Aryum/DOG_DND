@@ -23,7 +23,7 @@ if they dont roll
 You are Attacked by monsters (oblex spawn masked as things from their lore, when they take damage have a small description) 
 	- An armored man holding a spear
 	- A hooded man Yielding a dagger
-	- A bear the size of a wagon, raors
+	- A bear the size of a wagon
 
 
 
