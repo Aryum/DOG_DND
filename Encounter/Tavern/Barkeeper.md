@@ -15,4 +15,4 @@ Sending them off
 After coming back
 	- Sorry for the wait lads. busy day today. I hope it quenches ya hunger
 		- He hands you a platter filled with meat and many kinds of cheeses.  A basket full with bread. And a big bowl of carrot soup.
-	 - Oh i almost forgot, ya rooms are ready for ya. Whenever ya  Hopefully a good nights sleep will fix ya ugly mugs! (ha ha!) 
+	 - Oh i almost forgot, ya rooms are ready for ya, com Hopefully a good nights sleep will fix ya ugly mugs! (ha ha!) 
