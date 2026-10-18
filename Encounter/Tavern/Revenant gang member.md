@@ -1,5 +1,6 @@
-He looks at you, and says.
-	- Fresh blood (sniff), love me the smell  
+He takes a glance at you, and says.
+	- You aint from arround here are ya?
+	- Huh i could tell. That
 
 
 
