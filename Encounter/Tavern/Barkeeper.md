@@ -17,4 +17,4 @@ After coming back
 		- He hands you a platter filled with meat and many kinds of cheeses.  A basket full with bread. And a big bowl of carrot soup.
 	 - Oh i almost forgot, ya rooms are ready for ya. Hopefully a good nights sleep will fix ya ugly mugs! (ha ha!) The rooms are up the stairs u cant miss em.
 
-As you go up the stairs you see a long corridor with 5 rooms, and one hooded man leaning at the end. [[Revenant gang member]]
+As you go up the stairs you see a long dark corridor,. [[Revenant gang member]]

@@ -1,6 +1,7 @@
 He takes a glance at you, and says.
 	- You aint from arround here are ya?
-	- Huh i could tell. That
+	- Huh i could tell that face / You aint fooling anyone with that face.  
+He leaves his shadowy corner and you can see him better
 
 
 
