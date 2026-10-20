@@ -75,13 +75,15 @@ Add more if needed
 	Rin
 		Strength
 		 The Sun
-			Faced with the dark, forced to chose  
-			 Those shadows led you astray
+			You felt the light and it felt good
+			Journeyed away, far from that place
+			And prayed, none would know you
+			In the shadow of the light
 	Machi
 		Temperance
 		The moon
-			Journeyed away, far from that place
-			You felt the light and it felt good
-			And prayed, none would know you
+			Faced with the dark, forced to chose  
+			 Those shadows led you astray
+			
 		
 		[[Fix]] just says she they already know,  say something that they found peace and to have faith in redemption 
