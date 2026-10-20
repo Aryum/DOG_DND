@@ -84,6 +84,6 @@ Add more if needed
 		The moon
 			Faced with the dark, forced to chose  
 			 Those shadows led you astray
-			
+			Take care not to forget who you are
 		
 		[[Fix]] just says she they already know,  say something that they found peace and to have faith in redemption 
