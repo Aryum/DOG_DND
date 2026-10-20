@@ -2,8 +2,7 @@
 After everything that happened that day you fall fast asleep, hoping that when you wake up all of it was just part of a convoluted nightmare. 
 As the night progresses you starting dreaming of what it seems to be others peoples lives, you see a scholar teaching a young prince, you see a man leading the front lines of a battle field, two young kids stealing food from the streets and a man teaching his young daughter how to yield a bow. 
 
-You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. Behind it stands a statue of a man thrusting a dagger into his chest.
-(what do u wanna do)
+You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar with some daggers on top of it. Behind it stands a statue of a man with his hands on his chest and blood coming out of it.
 
 As you come closer to the altar 
 
