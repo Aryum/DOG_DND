@@ -83,7 +83,7 @@ Add more if needed
 		Temperance
 		The moon
 			Faced with the dark, forced to chose  
-			 Those shadows led you astray
-			Take care not to forget who you are
+			Those shadows led you astray
+			You want the world to forget
 		
 		[[Fix]] just says she they already know,  say something that they found peace and to have faith in redemption 
