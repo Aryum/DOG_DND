@@ -1,0 +1,1 @@
+Throw shade of the players lore when gets it/attacks?

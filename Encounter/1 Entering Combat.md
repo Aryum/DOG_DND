@@ -30,8 +30,7 @@ You are Attacked by monsters (oblex spawn masked as things from their lore, when
 
 
 
- You suddenly hear a voice echoing inside your head
-	 Give in, surrender and you find peace
+ You suddenly remember something [[fix]] add memories that players remember each step
  
  The light in the walls starts pulsating faster, the pulsating babum get lowder and suddenly the ground beneath you feet starts shaking, it starts cracking and a rupture opens. (roll acrobatics)
 	- nat 1 fall take 2x

@@ -4,4 +4,3 @@ After the fall, you feel that you are in a completely different place, you can n
 You open the door the light coming from inside blinds you the sound deafens you. It takes a moment for you to gather your senses. As you readjust to the new reality you notice you are inside a tavern. People talking. mugs clashing, the fireplace cracking. You hear an old dwarf call for you -> [[Barkeeper]] 
 
 
-They dreams that they are in a maze 
