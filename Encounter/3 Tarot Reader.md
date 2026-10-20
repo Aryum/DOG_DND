@@ -5,7 +5,7 @@ As the night progresses you starting dreaming of what it seems to be others peop
 You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. Behind it stands a statue of a man thrusting a dagger into his chest.
 (what do u wanna do)
 
-As you come closer to the altar you see a senten
+As you come closer to the altar 
 
 
 
