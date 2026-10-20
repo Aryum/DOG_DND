@@ -7,7 +7,7 @@ You wake up to find out you are no longer in your room but inside a temple. Wall
 As you come closer to the altar 
 
 To consider
-	- How to move foward?
+	- How to move forward? Next enconter is final boss
 		- Do they need to fill something so a door opens?
 		- Is there an npc stuck with some note saying that it needs blood?
 		- 
