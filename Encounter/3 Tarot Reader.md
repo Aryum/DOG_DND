@@ -73,11 +73,15 @@ Add more if needed
 		
 [[Rin and Machi]]
 	Rin
-	the Emperor
-	The Moon
-		Faced with the dark ,forced to chose  
-		You felt the light and it felt good
-		Journeyed away, far from that place
-		And prayed, none would know you
+		Strength
+		 The Sun
+			Faced with the dark, forced to chose  
+			 
+	Machi
+		Temperance
+		The moon
+			You felt the light and it felt good
+			Journeyed away, far from that place
+			And prayed, none would know you
 		
 		[[Fix]] just says she they already know,  say something that they found peace and to have faith in redemption 
