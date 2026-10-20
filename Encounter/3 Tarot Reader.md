@@ -76,12 +76,12 @@ Add more if needed
 		Strength
 		 The Sun
 			Faced with the dark, forced to chose  
-			 
+			 Those shadows led you astray
 	Machi
 		Temperance
 		The moon
-			You felt the light and it felt good
 			Journeyed away, far from that place
+			You felt the light and it felt good
 			And prayed, none would know you
 		
 		[[Fix]] just says she they already know,  say something that they found peace and to have faith in redemption 
