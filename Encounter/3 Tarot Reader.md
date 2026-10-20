@@ -6,6 +6,13 @@ You wake up to find out you are no longer in your room but inside a temple. Wall
 
 As you come closer to the altar 
 
+To consider
+	- How to move foward?
+		- Do they need to fill something so a door opens?
+		- Is there an npc stuck with some note saying that it needs blood?
+		- 
+Ideas
+	- Have a dead animal on top of the altar 
 
 
 Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to give blood  [[fix]] add introduction explaining this [[fix]] add boon if they want
