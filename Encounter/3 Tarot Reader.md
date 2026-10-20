@@ -10,7 +10,7 @@ To consider
 	- How to move forward? Next enconter is final boss
 		- Do they need to fill something so a door opens?
 		- Is there an npc stuck with some note saying that it needs blood?
-		- 
+		- Mohg related? blood burns? Light candles that require blood?
 Ideas
 	- Have a dead animal on top of the altar 
 
