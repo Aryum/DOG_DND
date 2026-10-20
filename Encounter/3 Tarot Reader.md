@@ -72,8 +72,12 @@ Add more if needed
 		Let fly all your fears and respond to the call
 		
 [[Rin and Machi]]
+	Rin
 	the Emperor
 	The Moon
+		Faced with the dark ,forced to chose  
+		You felt the light and it felt good
 		Journeyed away, far from that place
 		And prayed, none would know you
+		
 		[[Fix]] just says she they already know,  say something that they found peace and to have faith in redemption 
