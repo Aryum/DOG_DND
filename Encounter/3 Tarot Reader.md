@@ -85,5 +85,6 @@ Add more if needed
 			Faced with the dark, forced to chose  
 			Those shadows led you astray
 			You want the world to forget
+			The memory of darker days
 		
 		[[Fix]] just says she they already know,  say something that they found peace and to have faith in redemption 
