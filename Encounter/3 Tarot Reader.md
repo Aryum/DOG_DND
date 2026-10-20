@@ -11,6 +11,7 @@ To consider
 		- Do they need to fill something so a door opens?
 		- Is there an npc stuck with some note saying that it needs blood?
 		- Mohg related? blood burns? Light candles that require blood?
+		- how to lead that if they use their blood they will get info
 Ideas
 	- Have a dead animal on top of the altar 
 
@@ -73,8 +74,6 @@ Add more if needed
 [[Rin and Machi]]
 	the Emperor
 	The Moon
-		Ash into ash, dust into dust
-		A change in the wind
 		Journeyed away, far from that place
 		And prayed, none would know you
 		[[Fix]] just says she they already know,  say something that they found peace and to have faith in redemption 
