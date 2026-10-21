@@ -2,8 +2,21 @@
 After everything that happened that day you fall fast asleep, hoping that when you wake up all of it was just part of a convoluted nightmare. 
 As the night progresses you starting dreaming of what it seems to be others peoples lives, you see a scholar teaching a young prince, you see a man leading the front lines of a battle field, two young kids stealing food from the streets and a man teaching his young daughter how to yield a bow. [[Fix]] add a clear description of the face of players here, in purgatory you cannot see others people face make up lore reason
 
+You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar with some daggers on top of it. Behind it stands a statue of a man with his hands on his chest and blood coming out of it.
 
-You wake up no longer in your room but inside a temple. The walls are
+As you come closer to the altar 
+
+To consider
+	- How to move forward? Next enconter is final boss
+		- Do they need to fill something so a door opens?
+		- Is there an npc stuck with some note saying that it needs blood?
+		- Mohg related? blood burns? Light candles that require blood?
+		- how to lead that if they use their blood they will get info
+Ideas
+	- Have a dead animal on top of the altar 
+	- Candle flame shit
+	- cards appearing if they didnt give blood its blank
+
 
 Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to give blood  [[fix]] add introduction explaining this [[fix]] add boon if they want
 	- Rhymes? If your fortune you must know your blood must flow. 
@@ -61,10 +74,19 @@ Add more if needed
 		Let fly all your fears and respond to the call
 		
 [[Rin and Machi]]
-	the Emperor
-	The Moon
-		Ash into ash, dust into dust
-		A change in the wind
-		Journeyed away, far from that place
-		And prayed, none would know you
+	Rin
+		Strength
+		 The Sun
+			You felt the light and it felt good
+			Journeyed away, far from that place
+			And prayed, none would know you
+			In the shadow of the light
+	Machi
+		Temperance
+		The moon
+			Faced with the dark, forced to chose  
+			Those shadows led you astray
+			You want the world to forget
+			The memory of darker days
+		
 		[[Fix]] just says she they already know,  say something that they found peace and to have faith in redemption 
