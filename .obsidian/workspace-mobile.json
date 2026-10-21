@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounter/1 Entering Combat.md",
+                "file": "Encounter/3 Tarot Reader.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Entering Combat"
+              "title": "3 Tarot Reader"
             }
           }
         ],
@@ -188,11 +188,11 @@
   },
   "active": "9a68afc11fef7398",
   "lastOpenFiles": [
+    "Encounter/1 Entering Combat.md",
     "Encounter/4 Final Boss.md",
     "Encounter/3 Tarot Reader.md",
     "Encounter/Tavern/Barkeeper.md",
     "Encounter/2 Tavern.md",
-    "Encounter/1 Entering Combat.md",
     "Fix.md",
     "Encounter/Tavern/Soldiers.md",
     "Encounter/Tavern/Tarot Reader.md",

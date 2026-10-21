@@ -16,6 +16,7 @@ Ideas
 	- Have a dead animal on top of the altar 
 	- Candle flame shit
 	- cards appearing if they didnt give blood its blank
+	- turning statue to the one that needs to choose
 
 
 Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to give blood  [[fix]] add introduction explaining this [[fix]] add boon if they want
