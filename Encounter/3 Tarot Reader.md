@@ -2,11 +2,16 @@
 After everything that happened that day you fall fast asleep, hoping that when you wake up all of it was just part of a convoluted nightmare. 
 The night progresses you dream of of someone elses life, you see a scholar teaching a young prince, you see a man leading the front lines of a battle field, two young kids stealing food from the streets and a man teaching his young daughter how to yield a bow. 
 
-You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. Behind the altar you see a statue of a man, slicing his hand and a red liquid dripping from the cut, to the brazier bellow it. 
 
-Perception check?
-	As the liquid hits the brazier bellow it the flames spark with newfound vigor.
+->perception check before to describe candle lit?
 
+You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. Behind the altar you see a statue of a man, slicing his hand and a red liquid dripping from the cut. 
+
+Group perception check?
+	high -> As the liquid hits the brazier bellow it the flames spark with newfound vigor.
+	mid -> Bellow the statue stands a lit brazier
+	low -> dont describe
+1
 If they want to come close to the altar
 	As you come closer to the altar you see on top theres an old book and a dagger.
 
