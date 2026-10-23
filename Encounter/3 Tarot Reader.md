@@ -16,7 +16,7 @@ If they open the book
 	You look through the book, you see some blank pages, some blood soaked and some torn pages. As you go through the pages you notice a smell of burnt paper.
 
 To consider
-	- How to move forward? Next enconter is final boss
+	- How to move forward? Next encounter is final boss
 		- Do they need to fill something so a door opens?
 		- Is there an npc stuck with some note saying that it needs blood?
 		- Mohg related? blood burns? Light candles that require blood?
