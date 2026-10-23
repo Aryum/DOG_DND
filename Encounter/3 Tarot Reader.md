@@ -2,12 +2,16 @@
 After everything that happened that day you fall fast asleep, hoping that when you wake up all of it was just part of a convoluted nightmare. 
 The night progresses you dream of of someone elses life, you see a scholar teaching a young prince, you see a man leading the front lines of a battle field, two young kids stealing food from the streets and a man teaching his young daughter how to yield a bow. 
 
-You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. Behind the altar you see a statue of a man, slicing his hand and a red liquid dripping from the cut, to the candles bellow. 
+You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. Behind the altar you see a statue of a man, slicing his hand and a red liquid dripping from the cut, to the brazier bellow it. 
 
 Perception check?
-	As the liquid hits the candles bellow it the flames spark with newfound vigor.
+	As the liquid hits the brazier bellow it the flames spark with newfound vigor.
 
-As you come closer to the altar 
+If they want to come close to the altar
+	As you come closer to the altar you see on top theres an old book and a dagger.
+
+If they open the book
+	You look through the book, you see some blank pages, some blood soaked, as you go through the pages you notice a smell of burnt paper.
 
 To consider
 	- How to move forward? Next enconter is final boss
@@ -20,6 +24,7 @@ Ideas
 	- Candle flame shit
 	- cards appearing if they didnt give blood its blank
 	- turning statue to the one that needs to choose
+	- blank paper that when burnt reveals whats written
 
 
 Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to give blood  [[fix]] add introduction explaining this [[fix]] add boon if they want
