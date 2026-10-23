@@ -5,13 +5,20 @@ The night progresses you dream of of someone elses life, you see a scholar teach
 
 ->perception check before to describe candle lit?
 
-You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. Behind the altar you see a statue of a man, slicing his hand and a red liquid dripping from the cut.  As the liquid hits the brazier bellow it the flames spark with newfound vigor.
+You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. Behind the altar you see a statue of a man, slicing his hand and a red liquid dripping from the cut feeding the bazier bellow it.
 
 If they want to come close to the altar
 	As you come closer to the altar you see on top theres an book covered in blood stains and burnt pages besides it theres an adorned dagger.
 
 If they open the book
-	You look through the book, you see written in the old bloodied 
+	You look through the book, you read through the pages (wisdom check? to give details?) 
+		->SUCESS the pages are full of bloodstains and parts of the pages are burn off, but you see there are stories of people here, it seems to be a record of sorts. You read about
+			- [[Niels]]
+			- [[Nikolai Oak]]
+			- [[Seraphim the lost]]
+			- [[Rin and Machi]]
+		-> FAIL but many of the words are covered by bloodstains or burnt off.   
+	At the end theres an undamaged page you read the words (FUCKING DESCRIPTION) that evaporate into a red cloud after you read them.  
 
 To consider
 	- How to move forward? Next encounter is final boss
