@@ -5,7 +5,7 @@ The night progresses you dream of of someone elses life, you see a scholar teach
 You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. Behind the altar you see a statue of a man, slicing his hand and a red liquid driping from the cut, to the candles bellow. 
 
 Perception check?
-	As the liquid hits the candles bellow it the flames spark with newfound vigor 
+	As the liquid hits the candles bellow it the flames spark with newfound vigor.
 
 As you come closer to the altar 
 
