@@ -19,4 +19,3 @@ After coming back
 
 !!OR GO TO SLEEP OR ADD REVENANT GANG MEMBER!!
 
-[[Fix]] (more description probably smt with sound)As you go up the stairs you see a long dark corridor, from the other side you see a figure standing in a dark corner. [[Revenant gang member]]
