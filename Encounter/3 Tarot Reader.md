@@ -8,12 +8,12 @@ The night progresses you dream of of someone elses life, you see a scholar teach
 You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. Behind the altar you see a statue of a man, slicing his hand and a red liquid dripping from the cut.  As the liquid hits the brazier bellow it the flames spark with newfound vigor.
 
 If they want to come close to the altar
-	As you come closer to the altar you see on top theres an old book and a dagger.
+	As you come closer to the altar you see on top theres an book covered in blood stains and  and a dagger.
 	History check:
 		
 
 If they open the book
-	You look through the book, you see some blank pages, some blood soaked and some torn pages. As you go through the pages you notice a smell of burnt paper.
+	You look through the book, you see written in the old bloodied 
 
 To consider
 	- How to move forward? Next encounter is final boss
