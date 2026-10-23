@@ -8,9 +8,7 @@ The night progresses you dream of of someone elses life, you see a scholar teach
 You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. Behind the altar you see a statue of a man, slicing his hand and a red liquid dripping from the cut.  As the liquid hits the brazier bellow it the flames spark with newfound vigor.
 
 If they want to come close to the altar
-	As you come closer to the altar you see on top theres an book covered in blood stains and  and a dagger.
-	History check:
-		
+	As you come closer to the altar you see on top theres an book covered in blood stains and burnt pages besides it theres an adorned dagger.
 
 If they open the book
 	You look through the book, you see written in the old bloodied 
