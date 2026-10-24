@@ -1,6 +1,6 @@
 **Tarot reader**
 After everything that happened that day you fall fast asleep, hoping that when you wake up all of it was just part of a convoluted nightmare. 
-The night progresses you dream of of someone elses life, you see a scholar teaching a young prince, you see a man leading the front lines of a battle field, two young kids stealing food from the streets and a man teaching his young daughter how to yield a bow. 
+The night progresses you dream of of someone elses life, you see a scholar teaching a young prince, you see a young man leading the front lines of a battle field, two young kids stealing food from the streets and a man teaching his young daughter how to yield a bow. 
 
 
 ->perception check before to describe candle lit?
@@ -13,14 +13,13 @@ If they want to come close to the altar
 If they open the book
 	You look through the book, you read through the pages (wisdom check? to give details?) 
 		->SUCESS the pages are full of bloodstains and parts of the pages are burn off, but you see there are stories of people here, it seems to be a record of sorts. You read about
-			- [[Niels]]
-			- [[Nikolai Oak]]
-			- [[Seraphim the lost]]
-			- [[Rin and Machi]]
+			- [[Niels]] -> A king sending all abled man to the frontlines of defence
+			- [[Nikolai Oak]] -> A man picking up a contract to hunt a bear 
+			- [[Seraphim the lost]] -> A man training with a sword
+			- [[Rin and Machi]] -> A boy and a girl running from a castle carrying riches 
 		-> FAIL but many of the words are covered by bloodstains or burnt off.   
 	At the end theres an undamaged page you read the words (FUCKING DESCRIPTION) that evaporate into a red cloud after you read them.  
-		- Insight requires sacrifice
-		- 
+		- By blood and fire 
 
 To consider
 	- How to move forward? Next encounter is final boss
