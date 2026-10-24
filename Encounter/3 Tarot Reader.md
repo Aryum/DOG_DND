@@ -8,7 +8,7 @@ The night progresses you dream of of someone elses life, you see a scholar teach
 You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. Behind the altar you see a statue of a man, slicing his hand and a red liquid dripping from the cut feeding the brazier bellow it.
 
 If they want to come close to the altar
-	As you come closer to the altar you see on top theres a closed book covered in blood stains and charred corners besides it theres an adorned dagger.
+	As you come closer to the altar you see on top theres a closed book covered in blood stains and charred corners.
 
 If they open the book
 	You look through the book, you read through the pages (wisdom check? to give details?) 
@@ -18,7 +18,7 @@ If they open the book
 			- [[Seraphim the lost]] -> A man training with a sword
 			- [[Rin and Machi]] -> A boy and a girl running from a castle carrying riches 
 		-> FAIL but many of the words are covered by bloodstains or burnt off.   
-	At the end theres an undamaged page you read the words, Relinquish thy blood to the flame and thee shall be , that evaporate into a red cloud after you read them.     
+	At the end theres an undamaged page you read the words, "Relinquish thy blood to the flame, and your sins shall be atoned", as you finish reading the page starts burning, making a smoke cloud 
 
 To consider
 	- How to move forward? Next encounter is final boss
