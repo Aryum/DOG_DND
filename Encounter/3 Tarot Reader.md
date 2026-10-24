@@ -18,7 +18,7 @@ If they open the book
 			- [[Seraphim the lost]] -> A man training with a sword
 			- [[Rin and Machi]] -> A boy and a girl running from a castle carrying riches 
 		-> FAIL but many of the words are covered by bloodstains or burnt off.   
-	At the end theres an undamaged page you read the words, Relinquish thy blood to the flame, or surrender, that evaporate into a red cloud after you read them.     
+	At the end theres an undamaged page you read the words, Relinquish thy blood to the flame and thee shall be , that evaporate into a red cloud after you read them.     
 
 To consider
 	- How to move forward? Next encounter is final boss
