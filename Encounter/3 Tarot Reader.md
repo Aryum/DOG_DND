@@ -18,7 +18,7 @@ If they open the book
 			- [[Seraphim the lost]] -> A man training with a sword
 			- [[Rin and Machi]] -> A boy and a girl running from a castle carrying riches 
 		-> FAIL but many of the words are covered by bloodstains or burnt off.   
-	At the end theres an undamaged page you read the words, "Relinquish thy blood to the flame, . Forfeit thy blade, and ", as you finish reading the page starts burning, making a smoke cloud that quickly  
+	At the end theres an undamaged page you read the words, "Relinquish thy blood to the flame, and abandon your sin. Forfeit thy blade, and carry thy pain", as you finish reading the page starts burning, making a smoke cloud that quickly  
 
 To consider
 	- How to move forward? Next encounter is final boss
