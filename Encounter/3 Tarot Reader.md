@@ -19,7 +19,7 @@ If they open the book
 			- [[Rin and Machi]] -> A boy and a girl running from a castle carrying riches 
 		-> FAIL but many of the words are covered by bloodstains or burnt off.   
 	At the end theres an undamaged page you read the words (FUCKING DESCRIPTION) that evaporate into a red cloud after you read them.  
-		- By blood and fire 
+		- By blood and fire the truth 
 
 To consider
 	- How to move forward? Next encounter is final boss
