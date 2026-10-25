@@ -19,7 +19,7 @@ If they open the book
 			- [[Rin and Machi]] -> A boy and a girl running from a castle carrying riches 
 		-> FAIL but many of the words are covered by bloodstains or burnt off.   
 	At the end theres an undamaged page you read the words, "Relinquish thy blood to the flame, to abandon thy sin. Forfeit thy blade, to carry thy glory"[[fix]]. 
-	As you finish reading the page starts burning, covering the room in smoke. As the room clears, you notice that the book has dissapeared and five daggers have appeared on top of the altar. The temple suddenly becomes brighte  
+	As you finish reading the page starts burning, covering the room in smoke. As the room clears, you notice that the book has dissapeared and five daggers have appeared on top of the altar. The temple suddenly becomes brighter lightened by the flame at   
 
 To consider
 	- How to move forward? Next encounter is final boss
