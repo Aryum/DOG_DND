@@ -28,7 +28,7 @@ If only one sacrifices
 	As your blood/blade falls into the brazier you see the flame sparkle, shinning a bit brighter. (for first next ones get sfx)
 	
 After everyone sacrifices
-	Suddenly you hear an explosion,  
+	Suddenly you hear an explosion, the flame grows  
 
 
 **Readings**
