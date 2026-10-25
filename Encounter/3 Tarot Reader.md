@@ -18,8 +18,8 @@ If they open the book
 			- [[Seraphim the lost]] -> A man training with a sword
 			- [[Rin and Machi]] -> A boy and a girl running from a castle carrying riches 
 		-> FAIL but many of the words are covered by bloodstains or burnt off.   
-	At the end theres an undamaged page you read the words, "Relinquish thy blood to the flame, and abandon thy sin. Forfeit thy blade, and carry thy glory". 
-	As you finish reading the page starts burning, covering the room in smoke. As the room clears, you notice that the book has dissapeared from the altar and five daggers have appeared on top of it and the brazier at the statue's feet is bigger or some shit [[fix]]
+	At the end theres an undamaged page you read the words, "Relinquish thy blood to the flame, to abandon thy sin. Forfeit thy blade, to carry thy glory"[[fix]]. 
+	As you finish reading the page starts burning, covering the room in smoke. As the room clears, you notice that the book has dissapeared and five daggers have appeared on top of the altar. You hear the flame at the statue's feet 
 
 To consider
 	- How to move forward? Next encounter is final boss
