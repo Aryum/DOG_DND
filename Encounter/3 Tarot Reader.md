@@ -5,7 +5,7 @@ The night progresses you dream of of someone elses life, you see a scholar teach
 
 ->perception check before to describe candle lit?
 
-You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. Behind the altar you see a statue of a man, slicing his hand and a red liquid dripping from the cut feeding the brazier bellow it.
+You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar. You hear a drip and a  Behind the altar you see a statue of a man, slicing his hand and a red liquid dripping from the cut feeding the brazier bellow it.
 
 If they want to come close to the altar
 	As you come closer to the altar you see on top theres a closed book covered in blood stains and charred corners.
@@ -19,7 +19,7 @@ If they open the book
 			- [[Rin and Machi]] -> A boy and a girl running from a castle carrying riches 
 		-> FAIL but many of the words are covered by bloodstains or burnt off.   
 	At the end theres an undamaged page you read the words, "Relinquish thy blood to the flame, to abandon thy sin. Forfeit thy blade, to carry thy glory"[[fix]]. 
-	As you finish reading the page starts burning, covering the room in smoke. As the room clears, you notice that the book has dissapeared and five daggers have appeared on top of the altar. The temple suddenly becomes brighter lightened by the flame at   
+	As you finish reading the page starts burning, covering the room in smoke. As the room clears, you notice that the book has dissapeared and five daggers have appeared on top of the altar. The    
 
 To consider
 	- How to move forward? Next encounter is final boss
