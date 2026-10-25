@@ -28,7 +28,7 @@ If only one sacrifices
 	As your blood/blade falls into the brazier you see the flame sparkle, shinning a bit brighter. (for first next ones get sfx)
 	
 After everyone sacrifices
-	You see the flame growing   
+	You see the flame growing faster and faster reaching the   
 
 
 **Readings**
@@ -72,5 +72,3 @@ After everyone sacrifices
 			Those shadows led you astray
 			You want the world to forget
 			The memory of darker days
-		
-		[[Fix]] just says she they already know,  say something that they found peace and to have faith in redemption 
