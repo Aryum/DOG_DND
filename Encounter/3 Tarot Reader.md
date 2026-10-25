@@ -28,7 +28,7 @@ If only one sacrifices
 	As your blood/blade falls into the brazier you see the flame sparkle, shinning a bit brighter. (for first next ones get sfx)
 	
 After everyone sacrifices
-	You see the flame growing faster and faster reaching the   
+	make book reappear somehow
 
 
 **Readings**
