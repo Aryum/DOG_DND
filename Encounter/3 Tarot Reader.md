@@ -22,10 +22,13 @@ If they open the book
 	As you finish reading the page starts burning, covering the room in smoke. As the room clears, you notice that the book has dissapeared and five daggers have appeared on top of the altar. You notice that the blood dripping from the hand has come to a stop and the flame bellow it as grown weak.
 
 if they take their damn time to figure shit out
-	You feel the temple shake as a voice echoes through the walls. THE FLAME DEMANDS TRIBUTE 
+	You feel the temple shake as a voice echoes through the walls. THE FLAME DEMANDS TRIBUTE FROM ALL
 
-After sacrifice
+If only one sacrifices
+	As your blood/blade falls into the brazier you see the flame sparkle, shinning a bit brighter. (for first next ones get sfx)
 	
+After everyone sacrifices
+	Suddenly you hear an explosion,  
 
 
 **Readings**
