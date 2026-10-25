@@ -19,50 +19,14 @@ If they open the book
 			- [[Rin and Machi]] -> A boy and a girl running from a castle carrying riches 
 		-> FAIL but many of the words are covered by bloodstains or burnt off.   
 	At the end theres an undamaged page you read the words, "Relinquish thy blood to the flame, to abandon thy sin. Forfeit thy blade, to carry thy glory"[[fix]]. 
-	As you finish reading the page starts burning, covering the room in smoke. As the room clears, you notice that the book has dissapeared and five daggers have appeared on top of the altar. You notice that the blood dripping from the hand has come to a stop and the brazier bellow it
+	As you finish reading the page starts burning, covering the room in smoke. As the room clears, you notice that the book has dissapeared and five daggers have appeared on top of the altar. You notice that the blood dripping from the hand has come to a stop and the flame bellow it as grown weak.
 
-To consider
-	- How to move forward? Next encounter is final boss
-		- Do they need to fill something so a door opens?
-		- Is there an npc stuck with some note saying that it needs blood?
-		- Mohg related? blood burns? Light candles that require blood?
-		- how to lead that if they use their blood they will get info
-Ideas
-	- Have a dead animal on top of the altar 
-	- Candle flame shit
-	- cards appearing if they didnt give blood its blank
-	- turning statue to the one that needs to choose
-	- blank paper that when burnt reveals whats written
+if they take their damn time to figure shit out
+	You feel the temple shake as a voice echoes through the walls. THE FLAME DEMANDS TRIBUTE 
 
-
-Hooded figure that you cannot see the face cause of the shade it makes only speaks in rhyme if you want a reading players need to give blood  [[fix]] add introduction explaining this [[fix]] add boon if they want
-	- Rhymes? If your fortune you must know your blood must flow. 
-	- From your flesh insight is formed
-	- Fortune damns hesitation 
-	- keywords? 
+After sacrifice
 	
-**!!!!ATTENTION!!!!** 
-	ONLY GIVE DESCRIPTION after THEY ALL TAKE
 
-You see a statue on a pedestal[[fix]] wtf is the statue about, with a weird contraption in front of it. It has five daggers on top of it and five holes on top of it. Beneath each hole there is a bowl with an inscription, "Pain provides insight". [[fix]] give an option to either stab themselves or break the dagger or smt
-Guilutine type shit?to drop gaggers or stalactites 
-
-Cards
-- The fool - new beginnings
-- The magician - willpower, resourceful, turning ideas into action
-- The emperor - Authority, structure, stability
-- The lovers - Relationships choices alignment of values
-- Strength - Inner strength courage, patience, compassion
-- The hanged man - Surrender, new perspective, letting go
-- Death - Endings transformation, transition
-- Temperance - Balance moderation patience, blending options
-- The devil - Bondage addiction materialism, restriction
-- The tower - Sudden upheaval, revelation, chaos
-- The Sun - Joy sucess vitality, positivity
-- The Moon - Illusion fear subconscious, uncertainty
-- The Star - Hope faith renewal inspiration
-- The chariot - Will power determination, victory through focus and control of oposing forces
-Add more if needed
 
 **Readings**
 
