@@ -1,1 +1,1 @@
-Throw shade of the players lore when gets it/attacks?
+You hear something hitting hard at the temple doors, with each hit the door splinters a bit. You hear the pulsating 
