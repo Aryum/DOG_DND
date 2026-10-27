@@ -3,9 +3,7 @@ After everything that happened that day you fall fast asleep, hoping that when y
 The night progresses you dream of of someone elses life, you see a scholar teaching a young prince, you see a young man leading the front lines of a battle field, two young kids stealing food from the streets and a man teaching his young daughter how to yield a bow. 
 
 
-->perception check before to describe candle lit?
-
-You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar with a statue behind it. You hear a dripping sound that echoes through the temple, followed by a tsssssssh of it evaporating
+You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar with a statue behind it. You hear a dripping sound that echoes through the temple, followed by a tsssssssh of it evaporating.
 
 If they want to come close to the altar
 	As you come closer to the altar you can see the details of a statue, it depicts a man, slicing his hand with blood falling from the cut feeding the brazier bellow it. On top of the altar  you see on top theres a closed book covered in blood stains and charred corners.
