@@ -12,7 +12,7 @@ If they want to come close to the altar
 
 If they open the book
 	You look through the book, you read through the pages (wisdom check? to give details?) 
-		->SUCESS the pages are full of bloodstains and parts of the pages are burn off, but you see there are stories of people here, it seems to be a record of sorts. You read about
+		->SUCESS the pages are full of bloodstains and parts of the pages are burn off, but you see there are stories of people here, it seems to be a record of sorts. You read about [[fix]] make it prettier
 			- [[Niels]] -> A king sending all abled man to the frontlines of defence
 			- [[Nikolai Oak]] -> A man picking up a contract to hunt a bear 
 			- [[Seraphim the lost]] -> A man training with a sword
