@@ -25,10 +25,11 @@ if they take their damn time to figure shit out
 	You feel the temple shake as a voice echoes through the walls. THE FLAME DEMANDS TRIBUTE FROM ALL
 
 If only one sacrifices
-	As your blood/blade falls into the brazier you see the flame sparkle, shinning a bit brighter. (for first next ones get sfx)
+	As your blood/blade falls into the brazier you see the flame sparkle, shinning a bit brighter, and taller. 
+	????trying to reach (choose someone) almost like it wants something. (for first next ones get sfx)
 	
 After everyone sacrifices
-	make book reappear somehow
+	The flame starts dying until it
 
 
 **Readings**
