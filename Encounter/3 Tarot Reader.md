@@ -29,8 +29,8 @@ If only one sacrifices
 	????trying to reach (choose someone) almost like it wants something. (for first next ones get sfx)
 	
 After everyone sacrifices
-	The flame starts dying until it
-
+	The fire starts dying out, until the flame is extinguished. With the ashes are  scrolls with 
+your names on it
 
 **Readings**
 
