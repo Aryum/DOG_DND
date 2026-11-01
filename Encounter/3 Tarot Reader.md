@@ -30,6 +30,6 @@ After everyone sacrifices
 	The fire starts dying out, until the flame is extinguished. With the ashes are  scrolls with 
 your names on it
 
-[[Readings]] make papers with this shit written, two of them with just black
+[[Fix]] add reward for those who sacrificed
 
 Allow time for role play and then [[4 Final Boss]]
