@@ -11,7 +11,7 @@ You take a long time regaining your senses, as start getting up, you look around
 		- If its one of them waking up -> you see your partner trying to wake you up
 		- if they both did good rolls -> two people helping each other removing of their handcuffs
 
-[[Fix]] draft a map
+[[Fix]] draft a map bear should try and pin rosa
 Allow some time to roll play  if they ask to check what is there roll perception, 
 	- nat 1 -> surprise attack -> the darkness is too deep you don't see much else
 	- low -> the darkness is too deep you don't see much else, you see a fog wall on the other side of the cavern
