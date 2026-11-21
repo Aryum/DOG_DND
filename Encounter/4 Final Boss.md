@@ -2,3 +2,6 @@ You start hear something hitting hard at the temple doors, with each hit the doo
 
 The door finally breaks from it comes a dark amorphous dark body, covered in bones and leaves a dark ooze on his path. You hear a voice inside your head.
 	YOU CANNOT ESCAPE YOUR END
+
+
+arm with an axe thingy magig
