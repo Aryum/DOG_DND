@@ -1,5 +1,5 @@
 
-You wake up in a dark place, dizzy and confused, not really sure how you got here, you remember very little of what you here doing before. Your body feels numb, unresponsive, a cold breeze surrounds you. Fog covers your feet, and the walls radiate a low blueish light. From the walls of the cavern you hear a quiet yet noticeable pulsating beat. You look around and notice that you are not alone in this dark place, there's someone 
+You wake up in a dark place, dizzy and confused, not really sure how you got here, you remember very little of what you here doing before. Your body feels numb, unresponsive, a cold breeze surrounds you. Fog covers your feet, and the walls radiate a low blueish light. From the walls of the cavern you hear a quiet yet noticeable pulsating beat. You look around and notice a fog wall covers the opposite side of the cavern, and you see that you are not alone in this dark place, there's someone 
 	- [[Niels]] extinguishing the flamed from his robes, 
 	- [[Seraphim the lost]] someone looking at its broken helmet wondering what could have done it
 	- [[Nikolai Oak]] someone warping his wounds with his ravaged clothes, 
@@ -14,7 +14,7 @@ Allow some time to roll play, then roll perception,
 
 
 You are Attacked by monsters 
-	- An armored man holding a spear
+	- 2 armored man holding a spear
 	- A hooded man Yielding a dagger
 	- A bear the size of a wagon
 
