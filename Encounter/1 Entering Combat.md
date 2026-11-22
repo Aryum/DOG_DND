@@ -5,7 +5,6 @@ You wake up in a dark place, dizzy and confused, not really sure how you got her
 	- [[Nikolai Oak]] someone warping his wounds with his ravaged clothes, 
 	- [[Rin and Machi]]  two people helping each other removing of their handcuffs
 
-[[Fix]] draft a map bear should try and pin rosa
 Allow some time to roll play, then roll perception, 
 	- nat 1 -> surprise attack -> the darkness is too deep you don't see much else
 	- low -> the darkness is too deep you don't see much else, you see a fog wall on the other side of the cavern
@@ -21,7 +20,7 @@ You are Attacked by
 After the battle you feel you head heavier, it seems it has awaked some memories
 	[[Seraphim the lost]] -> the sound of a marching army to battle
 	[[Niels]] -> picking up
-	[[Nikolai Oak]] -> limping back
+	[[Nikolai Oak]] -> of a bloodied room
 	[[Rin and Machi]] -> running away with bags full of riches
 
  You start to see the light in the walls starts pulsating faster, the pulsating beat gettting lowder and suddenly the ground beneath you feet starts shaking, it begins cracking and a rupture opens. (roll acrobatics)
