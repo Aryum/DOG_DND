@@ -1,6 +1,6 @@
 **Tarot reader**
-After everything that happened that day you fall fast asleep, hoping that when you wake up all of it was just part of a convoluted nightmare. 
-The night progresses you dream of of someone elses life, you see a scholar teaching a young prince, you see a young man leading the front lines of a battle field, two young kids stealing food from the streets and a man teaching his young daughter how to yield a bow. 
+You go upstairs into your rooms. After everything that happened that day you fall fast asleep. 
+You get some strange dreams, you dream about a scholar teaching a young prince, you dream about young man leading the front lines of a battle field, you dream about two young kids stealing food from the streets and you dream about a man teaching his young daughter how to yield a bow. 
 
 
 You wake up to find out you are no longer in your room but inside a temple. Walls are made of white marble with small gaps from where rays of light come through. A long red rug with candles along side it pointing to an altar with a statue behind it, on the other side two large wooden doors. You hear a dripping sound that echoes through the temple, followed by a tsssssssh of it evaporating.
