@@ -7,7 +7,7 @@ Meanwhile on the field the hunter was ambushed by a werewolf, he was jumped and 
 He went back to the house to be met with a nightmare in the flesh, his family ravaged in the floor. His heart was broken, his mind had a million thoughts and none at the same time he started laughing and sobbing. Some passing patrol heard the commotion and decided to check in the noise. All they saw was the bloodied hunter laughing and screaming and his family dead on the floor. They thought he was possessed, that the forest had finally come to take revenge. They went for the kill, but the hunter was too cunning and managed to wound one of them and run away to the woods.  He ran and ran but his wounds were far too great and he succumbed to them
 
 **Remembers**
- - Being a famous hunter, being known for killing many beasts, specially the[[Man-killer Bear]]
+ - Being a famous hunter, being known for killing many beasts
  - Leaving on a hunt for the [[Man-killer Bear]]  being ambushed but managing to escape
  - Going back home seeing his family murdered
  - Last feeling: Anxiety feeling the one being hunted
