@@ -8,7 +8,8 @@ He went back to the house to be met with a nightmare in the flesh, his family ra
 
 **Remembers**
  - Being a famous hunter, being known for killing many beasts
- - Leaving on a hunt for the [[Man-killer Bear]]  being ambushed but managing to escape
+ - Leaving on a hunt for a beast that was causing terror on a nearby town
+ - Being ambushed but managing to escape gravely wounded
  - Going back home seeing his family murdered
  - Last feeling: Anxiety feeling the one being hunted
 
