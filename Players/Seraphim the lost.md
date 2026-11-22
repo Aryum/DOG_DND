@@ -9,8 +9,8 @@ Ashamed of letting his short temper get the best of him, he spent years honing h
 After gathering a small army, the assault began, the enemies morale was low and the young king made fast progress, the ecstasy of battle makes him lose his temper again, makes him feel invincible and he jumps to the front lines alone and is overwhelmed by the enemy.
 
 **Remembers**
- - All that he wrote
  - Being teached by a scholar
+ - 
  - Last feeling: Really bad headache
 
  **Epilogue**

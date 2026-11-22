@@ -11,9 +11,8 @@ Tired from bloodshed and havoc, they jumped from town to town trying to settle i
 **Remembers**
  - Growing up on the streets, stealing for survival
  - Joining a gang and doing heists with them,
- - In one of them wbut when escaping being cornered by a beast and being caught
- - Managing to get out of the prison with one last big boom, running from their past life and starting anew 
- - Last feeling: Peace and quiet
+ - In one of them while escaping being cornered by a beast and being caught
+ - Managing to get out of the prison with one last big boom, running from their past life and starting anew
  
  **Epilogue**
 	 You remember the life on the streets, hunger, cold and alone, until you met (the other one). You remember becoming close, looking out for each other on the streets, stealing together, running together. 
