@@ -31,7 +31,7 @@ If only one sacrifices
 	
 After everyone sacrifices
 	The fire starts dying out, until the flame is extinguished. With the ashes are  scrolls with 
-your names on it
+your names on it ->[[Readings]]
 
 [[Fix]] add reward for those who sacrificed
 
