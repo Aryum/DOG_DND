@@ -18,14 +18,8 @@ You are Attacked by monsters
 	- A hooded man Yielding a dagger
 	- A bear the size of a wagon
 
-
-
-
-
-
- You suddenly remember something [[fix]] add memories that players remember each step
  
- The light in the walls starts pulsating faster, the pulsating babum get lowder and suddenly the ground beneath you feet starts shaking, it starts cracking and a rupture opens. (roll acrobatics)
+ You start to see the light in the walls starts pulsating faster, the pulsating beat gettting lowder and suddenly the ground beneath you feet starts shaking, it begins cracking and a rupture opens. (roll acrobatics)
 	- nat 1 fall take 2x
 	- Low fall take  1x dmg
 	- high fall take no dmg
