@@ -9,7 +9,7 @@ Questions
 
 Sending them off
  - Well lads choose any table!  I be with a in a minute with some bites to eat, make yourselves at home. 
- As you sit you overhear some [[Soldiers]] in the next table talking
+ -> [[Soldiers]]
 
 
 After coming back
