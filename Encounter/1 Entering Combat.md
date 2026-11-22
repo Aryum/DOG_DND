@@ -1,9 +1,7 @@
 Roll constitution wake up players by order, they all have 1 minute of time to do a an action until another one wakes up, if they all wake and none made the perception check correctly surprise attack
 
 
-You wake up in a dark place, dizzy and confused, not really sure how you got here, you remember very little of what you here doing before. Your body feels numb, unresponsive, a cold breeze surrounds you. Fog covers your feet, and the walls radiate a low blueish light. From the walls of the cavern you hear a quiet yet noticeable pulsating babum.
-- Roll constitution lowest one does not get described (is the one who woke up)
-You take a long time regaining your senses, as start getting up, you look around and notice that you are not alone in this dark place, there's someone 
+You wake up in a dark place, dizzy and confused, not really sure how you got here, you remember very little of what you here doing before. Your body feels numb, unresponsive, a cold breeze surrounds you. Fog covers your feet, and the walls radiate a low blueish light. From the walls of the cavern you hear a quiet yet noticeable pulsating beat. You look around and notice that you are not alone in this dark place, there's someone 
 	- [[Niels]] extinguishing the flamed from his robes, 
 	- [[Seraphim the lost]] someone looking at its broken helmet wondering what could have done it
 	- [[Nikolai Oak]] someone warping his wounds with his ravaged clothes, 
