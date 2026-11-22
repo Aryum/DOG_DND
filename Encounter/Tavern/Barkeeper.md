@@ -1,6 +1,6 @@
 - Come in come in! Welcome to The Sleepy Mug! You lot look like a trampled rabbit, my good lord! What happened to you?
 - (respond to wtv they say)
-- You know what, me old pa always told me to be kind to wanderers. You need not worry about anything tonight, you may pass the night here, on the house. (BRENNA PREPARE THA ROOMS WE HAVE GUESTS). You must be thirsty here, enjoy the best flagon in the realm (bring uncles pear thing)! (heals them normal pot) What do ya think?
+- You know what, me old pa always told me to be kind to wanderers. You need not worry about anything tonight, you may pass the night here, on the house. (BRENNA PREPARE THA ROOMS WE HAVE GUESTS). You must be thirsty here, enjoy the best flagon in the realm (bring uncles pear thing)! (heals them 2d4 + 2) What do ya think?
 Questions
 - if they ask about on whats outside 
 	- monsters? here? my my your weariness has consumed your senses. Theres nothing in these lands.
