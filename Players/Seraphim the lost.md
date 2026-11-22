@@ -10,7 +10,7 @@ After gathering a small army, the assault began, the enemies morale was low and 
 
 **Remembers**
  - Being teached by a scholar to succeed his father, even though he wanted a life of adventure
- - The death of his father 
+ - The death of his father and parting on 
  - Last feeling: Really bad headache
 
  **Epilogue**
