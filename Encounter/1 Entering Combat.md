@@ -13,7 +13,7 @@ Allow some time to roll play, then roll perception,
 	- nat 20 -> You see that on the other side of a cavern there is a big fog wall, and it appears to be movement inside it. You see emerging from it, an armored men holding a spear, an hooded man yielding a dagger, and a bear the size of a wagon. They dont seem to notice you, 
 
 
-You are Attacked by monsters (oblex spawn masked as things from their lore, when they take damage have a small description) 
+You are Attacked by monsters 
 	- An armored man holding a spear
 	- A hooded man Yielding a dagger
 	- A bear the size of a wagon
