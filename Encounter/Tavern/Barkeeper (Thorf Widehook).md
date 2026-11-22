@@ -18,5 +18,5 @@ After coming back
 	 - Oh i almost forgot, ya rooms are ready for ya. Hopefully a good nights sleep will fix ya ugly mugs! (ha ha!) The rooms are up the stairs u cant miss em.
 
 [[3 Tarot Reader]]
-[[fix]] going to bed
+
 
