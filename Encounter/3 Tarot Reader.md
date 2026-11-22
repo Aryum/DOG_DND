@@ -8,6 +8,8 @@ You wake up to find out you are no longer in your room but inside a temple. Wall
 If they want to come close to the altar
 	As you come closer to the altar you can see the details of a statue, it depicts a man, slicing his hand with blood falling from the cut feeding the brazier bellow it. On top of the altar  you see on top theres a closed book covered in blood stains and charred corners.
 
+if they try to open the door
+	You try and push the doors open but it seems like theres something shutting 
 If they open the book
 	You look through the book, you read through the pages (wisdom check? to give details?) 
 		->SUCESS the pages are full of bloodstains and parts of the pages are burn off, but you see there are stories of people here, it seems to be a record of sorts. You read about [[fix]] make it prettier
