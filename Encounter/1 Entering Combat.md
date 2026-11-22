@@ -3,12 +3,10 @@ You wake up in a dark place, dizzy and confused, not really sure how you got her
 	- [[Niels]] extinguishing the flamed from his robes, 
 	- [[Seraphim the lost]] someone looking at its broken helmet wondering what could have done it
 	- [[Nikolai Oak]] someone warping his wounds with his ravaged clothes, 
-	- [[Rin and Machi]] 
-		- If its one of them waking up -> you see your partner trying to wake you up
-		- if they both did good rolls -> two people helping each other removing of their handcuffs
+	- [[Rin and Machi]]  two people helping each other removing of their handcuffs
 
 [[Fix]] draft a map bear should try and pin rosa
-Allow some time to roll play  if they ask to check what is there roll perception, 
+Allow some time to roll play, then roll perception, 
 	- nat 1 -> surprise attack -> the darkness is too deep you don't see much else
 	- low -> the darkness is too deep you don't see much else, you see a fog wall on the other side of the cavern
 	- good -> You see from the other side of the cavern a fog wall and from it 3 creatures emerging, an armored men holding a spear, an hooded man yielding a dagger, and a bear the size of a wagon 
