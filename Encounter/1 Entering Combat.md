@@ -11,8 +11,7 @@ Allow some time to roll play, then roll perception,
 	- low -> the darkness is too deep you don't see much else, you see a fog wall on the other side of the cavern
 	- good -> You see from the other side of the cavern a fog wall and from it 3 creatures emerging, an armored men holding a spear, an hooded man yielding a dagger, and a bear the size of a wagon 
 	- nat 20 -> You see that on the other side of a cavern there is a big fog wall, and it appears to be movement inside it. You see emerging from it, an armored men holding a spear, an hooded man yielding a dagger, and a bear the size of a wagon. They dont seem to notice you, 
-if they dont roll
-	You suddenly hear a roar coming behind you, as you look at it you see a bear the size of a wagon and coming behind it a man holding a spear an a hooded man with a dagger.
+
 
 You are Attacked by monsters (oblex spawn masked as things from their lore, when they take damage have a small description) 
 	- An armored man holding a spear
