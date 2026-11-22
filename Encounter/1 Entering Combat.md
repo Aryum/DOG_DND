@@ -22,6 +22,7 @@ After the battle you feel you head heavier, it seems it has awaked some memories
 	[[Seraphim the lost]] -> the sound of a marching army to battle
 	[[Niels]] -> picking up
 	[[Nikolai Oak]] -> preparing for a hunt
+	[[Rin and Machi]] -> running away with bags full of riches
 
  You start to see the light in the walls starts pulsating faster, the pulsating beat gettting lowder and suddenly the ground beneath you feet starts shaking, it begins cracking and a rupture opens. (roll acrobatics)
 	- nat 1 fall take 2x
