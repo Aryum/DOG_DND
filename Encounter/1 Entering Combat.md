@@ -15,13 +15,13 @@ Allow some time to roll play, then roll perception,
 
 You are Attacked by  
 	- 2 armored man with a red tabard holding spears
-	- A hooded man Yielding a dagger
-	- A bear the size of a wagon
+	- A hooded figure Yielding a dagger
+	- A black bear the size of a wagon
 
 After the battle you feel you head heavier, it seems it has awaked some memories
 	[[Seraphim the lost]] -> the sound of a marching army to battle
 	[[Niels]] -> picking up
-	[[Nikolai Oak]] -> preparing for a hunt
+	[[Nikolai Oak]] -> wounded 
 	[[Rin and Machi]] -> running away with bags full of riches
 
  You start to see the light in the walls starts pulsating faster, the pulsating beat gettting lowder and suddenly the ground beneath you feet starts shaking, it begins cracking and a rupture opens. (roll acrobatics)
