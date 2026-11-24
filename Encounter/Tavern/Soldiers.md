@@ -2,6 +2,7 @@
 
 Next to your table you see 3 soliders wearing a red tabbard with a yellow hawk sigil painted on it
 
+Arth Shadewin
 
 Part of [[Seraphim the lost]] party now working for the [[new king]] 
 	(Looks at seraphim) you look like you have seen some battlefields eh? 
