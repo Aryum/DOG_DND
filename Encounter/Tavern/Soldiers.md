@@ -2,8 +2,8 @@
 
 Next to your table you see 3 soliders wearing a red tabbard with a yellow hawk sigil painted on it
 
-Arth Shadewin
-
+Arth Shadewind
+Varden 
 Part of [[Seraphim the lost]] party now working for the [[new king]] 
 	(Looks at seraphim) you look like you have seen some battlefields eh? 
 	those days are long before me, not all this patrol and roaming around to try and keep the few lands we still have. 
