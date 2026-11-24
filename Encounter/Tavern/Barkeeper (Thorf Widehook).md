@@ -17,6 +17,8 @@ After coming back
 		- He hands you a platter filled with meat and many kinds of cheeses.  A basket full with bread. And a big bowl of carrot soup.
 	 - Oh i almost forgot, ya rooms are ready for ya. Hopefully a good nights sleep will fix ya ugly mugs! (ha ha!) The rooms are up the stairs u cant miss em.
 
+
+before going to sleep ask bruno to make a perception roll about scar
 [[3 Tarot Reader]]
 
 
