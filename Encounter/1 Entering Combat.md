@@ -1,8 +1,9 @@
 
-You wake up in a dark place, dizzy and confused, not really sure how you got here, you remember very little of what you here doing before. Your body feels numb, unresponsive, a cold breeze surrounds you. Fog covers your feet, and the walls radiate a low blueish light. From the walls of the cavern you hear a quiet yet noticeable pulsating beat. You look around and notice a fog wall covers the opposite side of the cavern, and you see that you are not alone in this dark place, there's someone 
-	- [[Niels]] extinguishing the flamed from his robes, 
-	- [[Seraphim the lost]] someone looking at its broken helmet wondering what could have done it
+You wake up in a dark place, dizzy and confused, not really sure how you got here, you remember very little of what you here doing before. Your body feels numb, unresponsive, a cold breeze surrounds you. Fog covers your feet, and the walls radiate a low blueish light. From the walls of the cavern you hear a quiet yet noticeable pulsating beat. You look around and notice a fog wall covers the opposite side of the cavern, and you see that you are not alone in this dark place, there's a  
+	- [[Niels]] gaunt man with hazel eyes and disheveled hair, extinguishing the flamed from his robes, 
+	- [[Seraphim the lost]] a tall rugged man with brownish gingered hair, looking at its broken helmet wondering what could have done it
 	- [[Nikolai Oak]] someone warping his wounds with his ravaged clothes, 
+	- [[Rin]] 
 	- [[Rin and Machi]]  two people helping each other removing of their handcuffs
 
 Allow some time to roll play, then roll perception, 
@@ -17,11 +18,7 @@ You are Attacked by
 	- A hooded figure Yielding a dagger
 	- A black bear the size of a wagon
 
-After the battle you feel you head heavier, it seems it has awaked some memories
-	[[Seraphim the lost]] -> the sound of a marching army to battle
-	[[Niels]] -> leaving the study to pick up soldiers  garments
-	[[Nikolai Oak]] -> of a bloodied room with two dead corpses
-	[[Rin and Machi]] -> running away with bags full of riches
+After the battle you feel you head heavier, in your head you hear the sound of a marching army to battle, you see images of someone leaving his study to pick up soldier garments, you feel the adrenaline of running away with bags full of riches and feel the scent of dried blood. 
 
  You start to see the light in the walls starts pulsating faster, the pulsating beat gettting lowder and suddenly the ground beneath you feet starts shaking, it begins cracking and a rupture opens. (roll acrobatics)
 	- nat 1 fall take 2x
