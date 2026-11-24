@@ -3,7 +3,7 @@ You wake up in a dark place, dizzy and confused, not really sure how you got her
 	- [[Niels]] gaunt man with hazel eyes and disheveled hair, extinguishing the flamed from his robes, 
 	- [[Seraphim the lost]] a tall rugged man with brownish gingered hair, looking at its broken helmet wondering what could have done it
 	- [[Nikolai Oak]] someone warping his wounds with his ravaged clothes, 
-	- [[Rin]] 
+	- [[Rin]] an hafling, with platinium hair reaching down her knees
 	- [[Rin and Machi]]  two people helping each other removing of their handcuffs
 
 Allow some time to roll play, then roll perception, 
