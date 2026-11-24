@@ -3,8 +3,7 @@ You wake up in a dark place, dizzy and confused, not really sure how you got her
 	- [[Niels]] gaunt man with hazel eyes and disheveled hair, extinguishing the flamed from his robes, 
 	- [[Seraphim the lost]] a tall rugged man with brownish gingered hair, looking at its broken helmet wondering what could have done it
 	- [[Nikolai Oak]] someone warping his wounds with his ravaged clothes, 
-	- [[Rin]] an hafling, with platinium hair reaching down her knees
-	- [[Rin and Machi]]  two people helping each other removing of their handcuffs
+	- [[Rin and Machi]]  two people helping each other removing of their handcuffs one of them an hafling, with platinum  hair reaching down her knees and a human 
 
 Allow some time to roll play, then roll perception, 
 	- nat 1 -> surprise attack -> the darkness is too deep you don't see much else
