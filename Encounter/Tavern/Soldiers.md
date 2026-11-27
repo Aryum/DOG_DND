@@ -1,4 +1,4 @@
-[[fix]] make it more interactive not just monologue
+
 
 Next to your table you see 3 soliders wearing a red tabbard with a yellow hawk sigil painted on it
 
