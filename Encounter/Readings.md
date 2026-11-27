@@ -7,8 +7,7 @@
 		Their grief but a fleeting feeling
 		For nature is calling 
 		
-you dream about a man teaching his young daughter how to yield a bow. 
- feel the scent of dried blood. 
+
 [[Niels]]
 	The Tower
 	Death
@@ -16,9 +15,7 @@ you dream about a man teaching his young daughter how to yield a bow.
 		Hears whispers of a world in an endless night
 		Cling to comfort child, no longer
 		There's nowhere left to run, nowhere left to hide
-		
-you dream about a scholar teaching a young prince
-you see images of someone leaving his study to pick up soldier garments
+
 [[Seraphim the lost]]
 	The Chariot
 	The Fool
@@ -27,8 +24,7 @@ you see images of someone leaving his study to pick up soldier garments
 		Feel the ancient ones guiding your sword  
 		Let fly all your fears and respond to the call
 		
- you dream about young man getting lost on a battle field
- in your head you hear the sound of a marching army to battle
+
 [[Rin and Machi]]
 	Rin
 		Strength
@@ -44,6 +40,4 @@ you see images of someone leaving his study to pick up soldier garments
 			Those shadows led you astray
 			You want the world to forget
 			The memory of darker days
-			
-you dream about two young kids stealing food from the streets 
-you feel the adrenaline of running away with bags full of riches
+	
