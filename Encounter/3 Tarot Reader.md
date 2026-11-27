@@ -24,6 +24,7 @@ If they open the book
 if they take their damn time to figure shit out
 	You feel the temple shake as a voice echoes through the walls. THE FLAME DEMANDS TRIBUTE FROM ALL
 
+1d4 dmg
 If only one sacrifices
 	As your blood/blade falls into the brazier you see the flame sparkle, shinning a bit brighter, and taller. 
 	????trying to reach (choose someone) almost like it wants something. (for first next ones get sfx)
@@ -31,7 +32,7 @@ If only one sacrifices
 After everyone sacrifices
 	The fire starts dying out, until the flame is extinguished. With the ashes are  scrolls with 
 your names on it ->[[Readings]]
-
+	Give inspiration to those who sacrificed
 [[Fix]] add reward for those who sacrificed
 
 Allow time for role play and then [[4 Final Boss]]
