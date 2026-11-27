@@ -1,1 +1,0 @@
-he sucks and makes [[Revenant gang]] stronger [[Fix]]
