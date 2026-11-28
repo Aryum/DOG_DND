@@ -10,8 +10,11 @@
 		{"id":"0daec57688cdafda","x":1280,"y":-60,"width":375,"height":160,"type":"text","text":"On whats outside\n- There are some guards patrolling the lands, and there is talk of a nasty bandit gang causing ruckus, but fortunately it hasnt hit my door  "},
 		{"id":"e7fafb9cc1744db7","x":820,"y":360,"width":250,"height":60,"type":"text","text":"Send them off"},
 		{"id":"3fb7cdc198b2c384","x":780,"y":560,"width":331,"height":120,"type":"text","text":" Well lads choose any table!  I be with a in a minute with some bites to eat, make yourselves at home. "},
-		{"id":"69a2cf8e050ab651","x":-340,"y":840,"width":250,"height":60,"type":"text","text":"[[Soldiers]]"},
-		{"id":"9322a993ff785f69","x":47,"y":831,"width":250,"height":60,"type":"text","text":"Next to your table you see 3 soldiers wearing a red tabbard"}
+		{"id":"9322a993ff785f69","x":60,"y":971,"width":250,"height":109,"type":"text","text":"Next to your table you see 3 soldiers wearing a red tabbard"},
+		{"id":"69a2cf8e050ab651","x":-327,"y":980,"width":250,"height":60,"type":"text","text":"[[Soldiers]]"},
+		{"id":"2fee9e5a58f9e03c","x":425,"y":1154,"width":250,"height":86,"type":"text","text":"Darian\nPatrol that found [[Nikolai Oak]]"},
+		{"id":"ac307866a6c2ea27","x":420,"y":981,"width":250,"height":90,"type":"text","text":"Varden\nCity guard that dealt with [[Revenant gang]] "},
+		{"id":"9d4d514a14820e2c","x":425,"y":760,"width":250,"height":120,"type":"text","text":"Arth\nPart of [[Seraphim the lost]] party now working in guard duty"}
 	],
 	"edges":[
 		{"id":"f918b04bf7ba753d","fromNode":"5af5117df3c4033e","fromSide":"right","toNode":"c303f3cff994766c","toSide":"left"},
@@ -24,6 +27,9 @@
 		{"id":"b6b3245fc0b00f82","fromNode":"c33808579b72c7df","fromSide":"bottom","toNode":"e7fafb9cc1744db7","toSide":"top"},
 		{"id":"bcad77c495ebfe38","fromNode":"e7fafb9cc1744db7","fromSide":"bottom","toNode":"3fb7cdc198b2c384","toSide":"top"},
 		{"id":"a123d0f9af78e844","fromNode":"c50369557fb1b20e","fromSide":"bottom","toNode":"69a2cf8e050ab651","toSide":"top"},
-		{"id":"9818ba8e128627f7","fromNode":"69a2cf8e050ab651","fromSide":"right","toNode":"9322a993ff785f69","toSide":"left"}
+		{"id":"9818ba8e128627f7","fromNode":"69a2cf8e050ab651","fromSide":"right","toNode":"9322a993ff785f69","toSide":"left"},
+		{"id":"c3bf5c13bd8a8903","fromNode":"9322a993ff785f69","fromSide":"right","toNode":"9d4d514a14820e2c","toSide":"left"},
+		{"id":"bf0ff0686cf26efb","fromNode":"9322a993ff785f69","fromSide":"right","toNode":"ac307866a6c2ea27","toSide":"left"},
+		{"id":"8af1fb92f13486bc","fromNode":"9322a993ff785f69","fromSide":"right","toNode":"2fee9e5a58f9e03c","toSide":"left"}
 	]
 }
