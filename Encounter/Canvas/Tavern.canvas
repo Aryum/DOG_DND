@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c303f3cff994766c","x":60,"y":-332,"width":647,"height":162,"type":"text","text":"After the fall, you feel like you are in a completely different place, the air around you feels warmer, more welcoming. \nYou look upwards and the rupture where you fell from is no longer there.\nIn front of you lays a wooden door with some light coming from the small gaps between the frame"},
+		{"id":"5af5117df3c4033e","x":-340,"y":-281,"width":250,"height":60,"type":"text","text":"After fall"}
+	],
+	"edges":[
+		{"id":"f918b04bf7ba753d","fromNode":"5af5117df3c4033e","fromSide":"right","toNode":"c303f3cff994766c","toSide":"left"}
+	]
+}

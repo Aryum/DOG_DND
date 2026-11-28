@@ -7,9 +7,12 @@
 		{"id":"ad8c992f4c14a22f","type":"text","text":"Allow time for roleplay","x":-374,"y":300,"width":250,"height":61},
 		{"id":"21e200b591b14c12","type":"text","text":"Combat start","x":-374,"y":469,"width":250,"height":60},
 		{"id":"3e0d1d6b4ffa4c1d","type":"text","text":"You see coming from the fog wall 2 armored man with a red tabard holding spears, a hooded figure holding a dagger and a black bear the size of a wagon roll initiative","x":0,"y":418,"width":370,"height":163},
-		{"id":"e31bfec2cb6db81a","type":"text","text":"After combat","x":-376,"y":713,"width":250,"height":60},
-		{"id":"d96b22625128091b","type":"text","text":"After the combat you feel a sharp pain in your brain, \n- [[Seraphim the lost]] in your head you start hearing the sound of a marching army to battle\n- [[Niels]] you see images of someone leaving his study to pick up soldier garments\n- [[Rin and Machi]] you feel the adrenaline of running away with bags full of riches\n- [[Nikolai Oak]] and the smell of a hot meal prepared by your loved one \n\n","x":0,"y":700,"width":800,"height":420},
-		{"id":"9f4237358c464ac0","type":"text","text":"Allow time for roleplay","x":-376,"y":851,"width":250,"height":59}
+		{"id":"d96b22625128091b","type":"text","text":"After the combat you feel a sharp pain in your brain, \n- [[Seraphim the lost]] in your head you start hearing the sound of a marching army to battle\n- [[Niels]] you see images of someone leaving his study to pick up soldier garments\n- [[Rin and Machi]] you feel the adrenaline of running away with bags full of riches\n- [[Nikolai Oak]] and the smell of a hot meal prepared by your loved one \n\n","x":0,"y":700,"width":800,"height":210},
+		{"id":"9f4237358c464ac0","type":"text","text":"Allow time for roleplay","x":-374,"y":960,"width":250,"height":59},
+		{"id":"e31bfec2cb6db81a","type":"text","text":"After combat","x":-374,"y":775,"width":250,"height":60},
+		{"id":"e0d4087e4b422e62","type":"text","text":"Transition\n","x":-372,"y":1148,"width":250,"height":60},
+		{"id":"bb6c1d51e11b9702","type":"text","text":"You start to see the light in the walls pulsating faster, the beat getting lowder, and suddenly the ground beneath you starts shaking and cracking a rupture swallowing you inside the hole ","x":14,"y":1122,"width":786,"height":112},
+		{"id":"669f70e94d5b9574","x":-371,"y":1301,"width":250,"height":60,"type":"text","text":"[[Tavern.canvas]]"}
 	],
 	"edges":[
 		{"id":"8af5e22c84873214","fromNode":"d5ab19bab78211c0","fromSide":"bottom","toNode":"19609903eda68c8f","toSide":"top"},
@@ -20,6 +23,9 @@
 		{"id":"6a327f076ba9cdd2","fromNode":"21e200b591b14c12","fromSide":"right","toNode":"3e0d1d6b4ffa4c1d","toSide":"left"},
 		{"id":"d21d34f4e1cb9165","fromNode":"21e200b591b14c12","fromSide":"bottom","toNode":"e31bfec2cb6db81a","toSide":"top"},
 		{"id":"e2793543411740cc","fromNode":"e31bfec2cb6db81a","fromSide":"right","toNode":"d96b22625128091b","toSide":"left"},
-		{"id":"c4adb633299578ed","fromNode":"e31bfec2cb6db81a","fromSide":"bottom","toNode":"9f4237358c464ac0","toSide":"top"}
+		{"id":"c4adb633299578ed","fromNode":"e31bfec2cb6db81a","fromSide":"bottom","toNode":"9f4237358c464ac0","toSide":"top"},
+		{"id":"64b5cb12e716dcf8","fromNode":"9f4237358c464ac0","fromSide":"bottom","toNode":"e0d4087e4b422e62","toSide":"top"},
+		{"id":"647e4cdf306f7bb5","fromNode":"e0d4087e4b422e62","fromSide":"right","toNode":"bb6c1d51e11b9702","toSide":"left"},
+		{"id":"db356da30b9e2501","fromNode":"e0d4087e4b422e62","fromSide":"bottom","toNode":"669f70e94d5b9574","toSide":"top"}
 	]
 }
