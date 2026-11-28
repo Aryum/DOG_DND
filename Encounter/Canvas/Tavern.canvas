@@ -15,8 +15,9 @@
 		{"id":"9d4d514a14820e2c","x":457,"y":960,"width":250,"height":120,"type":"text","text":"Arth\nPart of [[Seraphim the lost]] party now working in guard duty"},
 		{"id":"8b5690990ae9b6a9","x":880,"y":890,"width":780,"height":260,"type":"text","text":"\n- (Look at [[Seraphim the lost]]) You look like you have seen some battlefields eh?\n- Those days are long before me, now theres is only guard duty trying to keep the few lands we still have\n- But i believe he will return and things will turn back to its glory days. Going from battle to battle conquering new lands. Gaining fame and glory to our names!\n- But now we dont even have good men. All we have left are untrained men forced into duty by the king, how the mighty have fallen"},
 		{"id":"2fee9e5a58f9e03c","x":457,"y":1495,"width":250,"height":86,"type":"text","text":"Darian\nPatrol that found [[Nikolai Oak]]"},
-		{"id":"f0afa8fa72f7f368","x":880,"y":1280,"width":780,"height":160,"type":"text","text":"- Honestly id give anything not to deal with the bloodthirsty gang.\n- Ever since that heist no one wants to deal with them. They released a bear into the fucking town. A FUCKING BEAR. Id say at least the bear helped us capture two of them   "},
-		{"id":"ac307866a6c2ea27","x":457,"y":1315,"width":250,"height":90,"type":"text","text":"Varden\nCity guard that dealt with [[Revenant gang]] "}
+		{"id":"f0afa8fa72f7f368","x":880,"y":1280,"width":780,"height":160,"type":"text","text":"- Honestly id give anything not to deal with the bloodthirsty gang.\n- Ever since that heist no one wants to deal with them. They released a bear into the town. A FUCKING BEAR. And those two that managed to escape, burning half the town in the process? Who knows whats their next plan?"},
+		{"id":"ac307866a6c2ea27","x":457,"y":1315,"width":250,"height":90,"type":"text","text":"Varden\nCity guard that dealt with [[Revenant gang]] "},
+		{"id":"f365510b583db5bb","x":1860,"y":1280,"width":780,"height":160,"type":"text","text":"if they ask about the heist\n- A few years ago, they planed an heist to the towns treasure and for a distraction they decided to lure a bear into town to spread chaos. In the end their plan turned against them the bear hindered their escape somehow and left a nasty scar in one of them. We captured them, to no avail they managed to get free and blow up half the town in the process..."}
 	],
 	"edges":[
 		{"id":"f918b04bf7ba753d","fromNode":"5af5117df3c4033e","fromSide":"right","toNode":"c303f3cff994766c","toSide":"left"},
@@ -34,6 +35,7 @@
 		{"id":"bf0ff0686cf26efb","fromNode":"9322a993ff785f69","fromSide":"right","toNode":"ac307866a6c2ea27","toSide":"left"},
 		{"id":"8af1fb92f13486bc","fromNode":"9322a993ff785f69","fromSide":"right","toNode":"2fee9e5a58f9e03c","toSide":"left"},
 		{"id":"59eecb7a67bddf2a","fromNode":"9d4d514a14820e2c","fromSide":"right","toNode":"8b5690990ae9b6a9","toSide":"left"},
-		{"id":"b51e287b0ec6e46c","fromNode":"ac307866a6c2ea27","fromSide":"right","toNode":"f0afa8fa72f7f368","toSide":"left"}
+		{"id":"b51e287b0ec6e46c","fromNode":"ac307866a6c2ea27","fromSide":"right","toNode":"f0afa8fa72f7f368","toSide":"left"},
+		{"id":"17d3753f38b23d0c","fromNode":"f0afa8fa72f7f368","fromSide":"right","toNode":"f365510b583db5bb","toSide":"left"}
 	]
 }
