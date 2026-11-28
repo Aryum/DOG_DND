@@ -12,7 +12,7 @@
 		{"id":"e31bfec2cb6db81a","type":"text","text":"After combat","x":-374,"y":775,"width":250,"height":60},
 		{"id":"e0d4087e4b422e62","type":"text","text":"Transition\n","x":-372,"y":1148,"width":250,"height":60},
 		{"id":"bb6c1d51e11b9702","type":"text","text":"You start to see the light in the walls pulsating faster, the beat getting lowder, and suddenly the ground beneath you starts shaking and cracking a rupture swallowing you inside the hole ","x":14,"y":1122,"width":786,"height":112},
-		{"id":"669f70e94d5b9574","x":-371,"y":1301,"width":250,"height":60,"type":"text","text":"[[Tavern.canvas]]"}
+		{"id":"669f70e94d5b9574","x":-371,"y":1301,"width":250,"height":60,"type":"text","text":"[[2 Tavern.canvas]]"}
 	],
 	"edges":[
 		{"id":"8af5e22c84873214","fromNode":"d5ab19bab78211c0","fromSide":"bottom","toNode":"19609903eda68c8f","toSide":"top"},
