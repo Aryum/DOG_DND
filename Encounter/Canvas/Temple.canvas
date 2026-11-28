@@ -1,1 +1,9 @@
-{}
+{
+	"nodes":[
+		{"id":"8e4d4014fed81edb","x":-252,"y":-285,"width":250,"height":60,"type":"text","text":"Dream"},
+		{"id":"f829a1c42a6fa379","x":111,"y":-295,"width":250,"height":60,"type":"text","text":"- "}
+	],
+	"edges":[
+		{"id":"48133f4cf9e312c8","fromNode":"8e4d4014fed81edb","fromSide":"right","toNode":"f829a1c42a6fa379","toSide":"left"}
+	]
+}
