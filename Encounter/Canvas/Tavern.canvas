@@ -7,8 +7,11 @@
 		{"id":"c50369557fb1b20e","x":-340,"y":300,"width":250,"height":60,"type":"text","text":"[[Barkeeper (Thorf Widehook)]] Greeting"},
 		{"id":"70633ee92d5b05ef","x":60,"y":220,"width":647,"height":221,"type":"text","text":"- Come in, come in! Welcome to the Sleepy Mug! My my, you look like trampled rabbit. What happened to you lot?\n- You know what, me pa always told me to be kind to wanderers. You need not to worry about anything tonight, you may pass the night here, on the house. \n- (BRENNA PREPARE THA ROOMS WE HAVE GUESTS)\n- You must be thirsty here, enjoy the best flagon in the realm! (heal 2d4 + 2)\n- What do ya think?\n"},
 		{"id":"c33808579b72c7df","x":820,"y":220,"width":250,"height":60,"type":"text","text":"Answer questions"},
-		{"id":"0daec57688cdafda","x":1280,"y":-60,"width":375,"height":160,"type":"text","text":"On whats outside\n- There are some guards patrolling the lands, and there is tal"},
-		{"id":"127209a1c27bb37a","x":1280,"y":160,"width":375,"height":120,"type":"text","text":""}
+		{"id":"0daec57688cdafda","x":1280,"y":-60,"width":375,"height":160,"type":"text","text":"On whats outside\n- There are some guards patrolling the lands, and there is talk of a nasty bandit gang causing ruckus, but fortunately it hasnt hit my door  "},
+		{"id":"e7fafb9cc1744db7","x":820,"y":360,"width":250,"height":60,"type":"text","text":"Send them off"},
+		{"id":"3fb7cdc198b2c384","x":780,"y":560,"width":331,"height":120,"type":"text","text":" Well lads choose any table!  I be with a in a minute with some bites to eat, make yourselves at home. "},
+		{"id":"69a2cf8e050ab651","x":-340,"y":840,"width":250,"height":60,"type":"text","text":"[[Soldiers]]"},
+		{"id":"9322a993ff785f69","x":47,"y":831,"width":250,"height":60,"type":"text","text":"Next to your table you see 3 soldiers wearing a red tabbard"}
 	],
 	"edges":[
 		{"id":"f918b04bf7ba753d","fromNode":"5af5117df3c4033e","fromSide":"right","toNode":"c303f3cff994766c","toSide":"left"},
@@ -18,6 +21,9 @@
 		{"id":"b6f49212473c2865","fromNode":"c50369557fb1b20e","fromSide":"right","toNode":"70633ee92d5b05ef","toSide":"left"},
 		{"id":"35c29b69c4e24c13","fromNode":"70633ee92d5b05ef","fromSide":"right","toNode":"c33808579b72c7df","toSide":"left"},
 		{"id":"f65dbeee298cf741","fromNode":"c33808579b72c7df","fromSide":"right","toNode":"0daec57688cdafda","toSide":"left"},
-		{"id":"61d11560a5db0848","fromNode":"c33808579b72c7df","fromSide":"right","toNode":"127209a1c27bb37a","toSide":"left"}
+		{"id":"b6b3245fc0b00f82","fromNode":"c33808579b72c7df","fromSide":"bottom","toNode":"e7fafb9cc1744db7","toSide":"top"},
+		{"id":"bcad77c495ebfe38","fromNode":"e7fafb9cc1744db7","fromSide":"bottom","toNode":"3fb7cdc198b2c384","toSide":"top"},
+		{"id":"a123d0f9af78e844","fromNode":"c50369557fb1b20e","fromSide":"bottom","toNode":"69a2cf8e050ab651","toSide":"top"},
+		{"id":"9818ba8e128627f7","fromNode":"69a2cf8e050ab651","fromSide":"right","toNode":"9322a993ff785f69","toSide":"left"}
 	]
 }
