@@ -13,8 +13,10 @@
 		{"id":"69a2cf8e050ab651","x":-340,"y":1180,"width":250,"height":60,"type":"text","text":"[[Soldiers]]"},
 		{"id":"9322a993ff785f69","x":60,"y":1155,"width":250,"height":109,"type":"text","text":"Next to your table you see 3 soldiers wearing a red tabbard"},
 		{"id":"9d4d514a14820e2c","x":457,"y":960,"width":250,"height":120,"type":"text","text":"Arth\nPart of [[Seraphim the lost]] party now working in guard duty"},
-		{"id":"ac307866a6c2ea27","x":457,"y":1165,"width":250,"height":90,"type":"text","text":"Varden\nCity guard that dealt with [[Revenant gang]] "},
-		{"id":"2fee9e5a58f9e03c","x":457,"y":1320,"width":250,"height":86,"type":"text","text":"Darian\nPatrol that found [[Nikolai Oak]]"}
+		{"id":"8b5690990ae9b6a9","x":880,"y":890,"width":780,"height":260,"type":"text","text":"\n- (Look at [[Seraphim the lost]]) You look like you have seen some battlefields eh?\n- Those days are long before me, now theres is only guard duty trying to keep the few lands we still have\n- But i believe he will return and things will turn back to its glory days. Going from battle to battle conquering new lands. Gaining fame and glory to our names!\n- But now we dont even have good men. All we have left are untrained men forced into duty by the king, how the mighty have fallen"},
+		{"id":"2fee9e5a58f9e03c","x":457,"y":1495,"width":250,"height":86,"type":"text","text":"Darian\nPatrol that found [[Nikolai Oak]]"},
+		{"id":"f0afa8fa72f7f368","x":880,"y":1280,"width":780,"height":160,"type":"text","text":"- Honestly id give anything not to deal with the bloodthirsty gang"},
+		{"id":"ac307866a6c2ea27","x":457,"y":1315,"width":250,"height":90,"type":"text","text":"Varden\nCity guard that dealt with [[Revenant gang]] "}
 	],
 	"edges":[
 		{"id":"f918b04bf7ba753d","fromNode":"5af5117df3c4033e","fromSide":"right","toNode":"c303f3cff994766c","toSide":"left"},
@@ -30,6 +32,8 @@
 		{"id":"9818ba8e128627f7","fromNode":"69a2cf8e050ab651","fromSide":"right","toNode":"9322a993ff785f69","toSide":"left"},
 		{"id":"c3bf5c13bd8a8903","fromNode":"9322a993ff785f69","fromSide":"right","toNode":"9d4d514a14820e2c","toSide":"left"},
 		{"id":"bf0ff0686cf26efb","fromNode":"9322a993ff785f69","fromSide":"right","toNode":"ac307866a6c2ea27","toSide":"left"},
-		{"id":"8af1fb92f13486bc","fromNode":"9322a993ff785f69","fromSide":"right","toNode":"2fee9e5a58f9e03c","toSide":"left"}
+		{"id":"8af1fb92f13486bc","fromNode":"9322a993ff785f69","fromSide":"right","toNode":"2fee9e5a58f9e03c","toSide":"left"},
+		{"id":"59eecb7a67bddf2a","fromNode":"9d4d514a14820e2c","fromSide":"right","toNode":"8b5690990ae9b6a9","toSide":"left"},
+		{"id":"b51e287b0ec6e46c","fromNode":"ac307866a6c2ea27","fromSide":"right","toNode":"f0afa8fa72f7f368","toSide":"left"}
 	]
 }
