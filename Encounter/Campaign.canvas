@@ -8,7 +8,8 @@
 		{"id":"21e200b591b14c12","type":"text","text":"Combat start","x":-374,"y":469,"width":250,"height":60},
 		{"id":"3e0d1d6b4ffa4c1d","type":"text","text":"You see coming from the fog wall 2 armored man with a red tabard holding spears, a hooded figure holding a dagger and a black bear the size of a wagon roll initiative","x":0,"y":418,"width":370,"height":163},
 		{"id":"e31bfec2cb6db81a","type":"text","text":"After combat","x":-376,"y":713,"width":250,"height":60},
-		{"id":"d96b22625128091b","type":"text","text":"After the combar you feel a sharp pain in your brain, \n- [[Seraphim the lost]] in your head you start hearing the sound of a marching army to battle\n- [[Niels]] you see images of someone leaving his study to pick up soldier garments\n- [[Rin and Machi]] you feel the adrenaline of running away with bags full of riches\n- [[Nikolai Oak]] and the smell of ","x":0,"y":700,"width":800,"height":200}
+		{"id":"d96b22625128091b","type":"text","text":"After the combat you feel a sharp pain in your brain, \n- [[Seraphim the lost]] in your head you start hearing the sound of a marching army to battle\n- [[Niels]] you see images of someone leaving his study to pick up soldier garments\n- [[Rin and Machi]] you feel the adrenaline of running away with bags full of riches\n- [[Nikolai Oak]] and the smell of a hot meal prepared by your loved one \n\n","x":0,"y":700,"width":800,"height":420},
+		{"id":"9f4237358c464ac0","type":"text","text":"Allow time for roleplay","x":-376,"y":851,"width":250,"height":59}
 	],
 	"edges":[
 		{"id":"8af5e22c84873214","fromNode":"d5ab19bab78211c0","fromSide":"bottom","toNode":"19609903eda68c8f","toSide":"top"},
@@ -18,6 +19,7 @@
 		{"id":"b90be862f6fbb540","fromNode":"ad8c992f4c14a22f","fromSide":"bottom","toNode":"21e200b591b14c12","toSide":"top"},
 		{"id":"6a327f076ba9cdd2","fromNode":"21e200b591b14c12","fromSide":"right","toNode":"3e0d1d6b4ffa4c1d","toSide":"left"},
 		{"id":"d21d34f4e1cb9165","fromNode":"21e200b591b14c12","fromSide":"bottom","toNode":"e31bfec2cb6db81a","toSide":"top"},
-		{"id":"e2793543411740cc","fromNode":"e31bfec2cb6db81a","fromSide":"right","toNode":"d96b22625128091b","toSide":"left"}
+		{"id":"e2793543411740cc","fromNode":"e31bfec2cb6db81a","fromSide":"right","toNode":"d96b22625128091b","toSide":"left"},
+		{"id":"c4adb633299578ed","fromNode":"e31bfec2cb6db81a","fromSide":"bottom","toNode":"9f4237358c464ac0","toSide":"top"}
 	]
 }
