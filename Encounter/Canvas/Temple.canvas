@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"f829a1c42a6fa379","x":111,"y":-295,"width":809,"height":215,"type":"text","text":"You go upstairs to your tooms. After everything that happened today you manage to fall fast asleep. You get some strange dreams.\n- About a scholar teaching a young prince the ways to lead a kingdom\n- You dream about a young man getting lost on a battlefield\n- You dream about two kids stealing food from the streets\n- And about a man and a woman teaching their daughter how to wield a bow \n"},
 		{"id":"8e4d4014fed81edb","x":-260,"y":-217,"width":250,"height":60,"type":"text","text":"Dream"},
-		{"id":"ea4f5f75cd2b1e3f","x":140,"y":70,"width":780,"height":170,"type":"text","text":"You wake up to find you are no longer in your room but inside a temple. Walls made of white marble with small gaps where rays of light come through. A long red rug with candles along side it point to an altar with a statue, on the other side of "},
+		{"id":"ea4f5f75cd2b1e3f","x":140,"y":70,"width":780,"height":150,"type":"text","text":"You wake up to find you are no longer in your room but inside a temple. Walls made of white marble with small gaps where rays of light come through. A long red rug with candles along side it point to an altar with a statue behind it, on the other side of temple two large wooden doors. You hear the dripping sound that echoes through the temple followed by a tssshhhh sound. "},
 		{"id":"9762f8ff5c647b78","x":-260,"y":125,"width":250,"height":60,"type":"text","text":"Wake up\n"}
 	],
 	"edges":[

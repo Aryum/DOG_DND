@@ -15,8 +15,8 @@ If they open the book
 		->SUCESS the pages are full of bloodstains and parts of the pages are burn off, but you see there are stories of people here, it seems to be a record of sorts. 
 			- [[Niels]] -> A king sending all abled man to the frontlines of defence
 			- [[Nikolai Oak]] -> A man picking up a contract to hunt a bear 
-			- [[Seraphim the lost]] -> A man training with a sword
-			- [[Rin and Machi]] -> A boy and a girl running from a castle carrying riches 
+			- [[Seraphim the lost]] -> A man gathering an army
+			- [[Rin and Machi]] -> A boy and a girl joining a gang
 		-> FAIL but many of the words are covered by bloodstains or burnt off.   
 	At the end theres an undamaged page you read the words, "Relinquish thy blood to the flame and abandon thy sin. Forfeit thy blade and carry thy glory" 
 	As you finish reading the page starts burning, covering the room in smoke. As the room clears, you notice that the book has dissapeared and five daggers have appeared on top of the altar. You notice that the blood dripping from the hand has come to a stop and the flame bellow it as grown weak.
