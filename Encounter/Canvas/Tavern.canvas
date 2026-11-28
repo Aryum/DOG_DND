@@ -21,7 +21,7 @@
 		{"id":"9322a993ff785f69","type":"text","text":"Next to your table you see 3 soldiers wearing a red tabbard","x":60,"y":1306,"width":250,"height":109},
 		{"id":"69a2cf8e050ab651","type":"text","text":"[[Soldiers]]","x":-340,"y":1331,"width":250,"height":60},
 		{"id":"31cd568eef15ff2d","x":-340,"y":1860,"width":250,"height":60,"type":"text","text":"[[Barkeeper (Thorf Widehook)]] comes back"},
-		{"id":"5f5d0f49ab24d1ab","x":80,"y":1860,"width":820,"height":260,"type":"text","text":"- Sorry for the wait lads, Busy day. I hope it quenches ya hunger (he hands you platters filled with meats, grilled fish and many kinds of cheese)"}
+		{"id":"5f5d0f49ab24d1ab","x":80,"y":1860,"width":820,"height":260,"type":"text","text":"- Sorry for the wait lads, Busy day. I hope it quenches ya hunger (he hands you platters filled with meats, grilled fish and many kinds of cheese)\n- Oh i almost forgot, ya r"}
 	],
 	"edges":[
 		{"id":"f918b04bf7ba753d","fromNode":"5af5117df3c4033e","fromSide":"right","toNode":"c303f3cff994766c","toSide":"left"},
