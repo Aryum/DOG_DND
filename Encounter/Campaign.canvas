@@ -6,7 +6,8 @@
 		{"id":"ad0fe6b755562f7d","type":"text","text":"- Wake up in a dark cavern, dizzy and confused not really sure how you got here\n- Your body feels numb, unresponsive a cold breeze surrounds you\n- Fog covers your feet, from the walls of the cavern you hear a quiet pulsating beat.\n- You look arround and notice a fog wall covers the opposite side of the cavern, and see that you are not alone in this dark place.","x":0,"y":-229,"width":640,"height":199},
 		{"id":"ad8c992f4c14a22f","type":"text","text":"Allow time for roleplay","x":-374,"y":320,"width":250,"height":61},
 		{"id":"7f3cd7e5049ba229","x":-375,"y":-380,"width":251,"height":50,"type":"text","text":"Roll perception"},
-		{"id":"7ff6feeafb428b56","x":40,"y":420,"width":420,"height":163,"type":"text","text":" If more than half succeed \n- < 10 ->surprise attack -> \n- > 10 -> You see comming "}
+		{"id":"7ff6feeafb428b56","x":40,"y":420,"width":620,"height":163,"type":"text","text":" If more than half succeed \n- < 10 ->surprise attack -> As you were regaining your senses\n- > 10 -> You see coming from the fog wall "},
+		{"id":"3e0d1d6b4ffa4c1d","x":775,"y":420,"width":250,"height":163,"type":"text","text":"2 armored man with a red tabard holding spears, a hooded figure holding a dagger and a black bear the size of a wagon"}
 	],
 	"edges":[
 		{"id":"8af5e22c84873214","fromNode":"d5ab19bab78211c0","fromSide":"bottom","toNode":"19609903eda68c8f","toSide":"top"},
@@ -14,6 +15,7 @@
 		{"id":"671ce826639cd1c9","fromNode":"d5ab19bab78211c0","fromSide":"right","toNode":"ad0fe6b755562f7d","toSide":"left"},
 		{"id":"3d0ef48f79dcaaa9","fromNode":"19609903eda68c8f","fromSide":"right","toNode":"68049592dc02bd08","toSide":"left"},
 		{"id":"55823e05adfb21f7","fromNode":"7f3cd7e5049ba229","fromSide":"right","toNode":"7ff6feeafb428b56","toSide":"left"},
-		{"id":"efd3a6b82e57eea0","fromNode":"7f3cd7e5049ba229","fromSide":"bottom","toNode":"d5ab19bab78211c0","toSide":"top"}
+		{"id":"efd3a6b82e57eea0","fromNode":"7f3cd7e5049ba229","fromSide":"bottom","toNode":"d5ab19bab78211c0","toSide":"top"},
+		{"id":"d1f11b1a678af0c1","fromNode":"7ff6feeafb428b56","fromSide":"right","toNode":"3e0d1d6b4ffa4c1d","toSide":"left"}
 	]
 }
