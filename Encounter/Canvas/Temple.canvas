@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"8e4d4014fed81edb","x":-252,"y":-285,"width":250,"height":60,"type":"text","text":"Dream"},
-		{"id":"f829a1c42a6fa379","x":111,"y":-295,"width":250,"height":60,"type":"text","text":"- "}
+		{"id":"f829a1c42a6fa379","x":111,"y":-295,"width":809,"height":215,"type":"text","text":"You go upstairs to your tooms. After everything that happened today you manage to fall fast asleep. You get some strange dreams.\n- About a scholar teaching a young prince the ways to lead a kingdom\n- You dream about a young man getting lost on a battlefield\n- You dream about two kids stealing food from the streets\n- And about a man and a woman teaching their daughter how to wield a bow \n"},
+		{"id":"8e4d4014fed81edb","x":-260,"y":-217,"width":250,"height":60,"type":"text","text":"Dream"}
 	],
 	"edges":[
 		{"id":"48133f4cf9e312c8","fromNode":"8e4d4014fed81edb","fromSide":"right","toNode":"f829a1c42a6fa379","toSide":"left"}
