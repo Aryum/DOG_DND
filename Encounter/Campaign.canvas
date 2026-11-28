@@ -3,11 +3,13 @@
 		{"id":"19609903eda68c8f","type":"text","text":"Player description\n","x":-374,"y":80,"width":250,"height":61},
 		{"id":"ad8c992f4c14a22f","type":"text","text":"","x":-374,"y":200,"width":250,"height":61},
 		{"id":"d5ab19bab78211c0","type":"text","text":"Cavern description\n","x":-374,"y":-160,"width":250,"height":61},
-		{"id":"ad0fe6b755562f7d","type":"text","text":"- Wake up in a dark place dizzy and confused not really sure how you got here\n- ","x":80,"y":-159,"width":620,"height":239}
+		{"id":"ad0fe6b755562f7d","type":"text","text":"- Wake up in a dark cavern, dizzy and confused not really sure how you got here\n- Your body feels numb, unresponsive a cold breeze surrounds you\n- Fog covers your feet, from the walls of the cavern you hear a quiet pulsating beat.\n- You look arround and notice a fog wall covers the opposite side of the cavern, and see that you are not alone in this dark place.","x":80,"y":-159,"width":640,"height":199},
+		{"id":"68049592dc02bd08","x":909,"y":-159,"width":591,"height":199,"type":"text","text":"LOOK AT WHO EVER YOU ARE DESCRIBING\n- [[Niels]] a gaunt main with hazel eyes and disheveled hair, extinguishing the flames from his clothes\n- [[Seraphim the lost]] a tall rugged man with brownish gingered hair, looking at his broken helmet wondering what could have dones it\n- [[Nikolai Oak]] a man with long dark curly hair with a nasty scar on his face, wraping his wounds with his ravaged clothes\n- [[Rin and Machi]]"}
 	],
 	"edges":[
 		{"id":"8af5e22c84873214","fromNode":"d5ab19bab78211c0","fromSide":"bottom","toNode":"19609903eda68c8f","toSide":"top"},
 		{"id":"5456dff706f56798","fromNode":"19609903eda68c8f","fromSide":"bottom","toNode":"ad8c992f4c14a22f","toSide":"top"},
-		{"id":"671ce826639cd1c9","fromNode":"d5ab19bab78211c0","fromSide":"right","toNode":"ad0fe6b755562f7d","toSide":"left"}
+		{"id":"671ce826639cd1c9","fromNode":"d5ab19bab78211c0","fromSide":"right","toNode":"ad0fe6b755562f7d","toSide":"left"},
+		{"id":"213dcde65777d0d8","fromNode":"ad0fe6b755562f7d","fromSide":"right","toNode":"68049592dc02bd08","toSide":"left"}
 	]
 }
