@@ -4,14 +4,20 @@
 		{"id":"5af5117df3c4033e","x":-340,"y":-281,"width":250,"height":60,"type":"text","text":"After fall"},
 		{"id":"702d6d521f5cb7d7","x":60,"y":-66,"width":647,"height":126,"type":"text","text":"You open the door, the light coming from inside blinds you. It takes a moment for you to gather your senses. When you do you notice you are inside the tavern, people talking mugs clashing and the fireplace cracking. You hear an old dwarf call you"},
 		{"id":"9999fb20529e412a","x":-340,"y":-33,"width":250,"height":60,"type":"text","text":"Open door"},
-		{"id":"70633ee92d5b05ef","x":60,"y":199,"width":647,"height":261,"type":"text","text":"- Come in, come in! Welcome to the Sleepy Mug! My my, you look like trampled rabbit. What happened to you lot?\n- You know what, me pa always told me to be kind to wanderers. You need not to worry about anything tonight, you may pass the night here, on the house. \n- (BRENNA PREPARE THA ROOMS WE HAVE GUESTS)\n- You must be thirsty here, enjoy the best flagon in the realm! (heal 2d4 + 2)"},
-		{"id":"c50369557fb1b20e","x":-340,"y":300,"width":250,"height":60,"type":"text","text":"[[Barkeeper (Thorf Widehook)]] Greeting"}
+		{"id":"c50369557fb1b20e","x":-340,"y":300,"width":250,"height":60,"type":"text","text":"[[Barkeeper (Thorf Widehook)]] Greeting"},
+		{"id":"70633ee92d5b05ef","x":60,"y":220,"width":647,"height":221,"type":"text","text":"- Come in, come in! Welcome to the Sleepy Mug! My my, you look like trampled rabbit. What happened to you lot?\n- You know what, me pa always told me to be kind to wanderers. You need not to worry about anything tonight, you may pass the night here, on the house. \n- (BRENNA PREPARE THA ROOMS WE HAVE GUESTS)\n- You must be thirsty here, enjoy the best flagon in the realm! (heal 2d4 + 2)\n- What do ya think?\n"},
+		{"id":"c33808579b72c7df","x":820,"y":220,"width":250,"height":60,"type":"text","text":"Answer questions"},
+		{"id":"0daec57688cdafda","x":1280,"y":-60,"width":375,"height":160,"type":"text","text":"On whats outside\n- There are some guards patrolling the lands, and there is tal"},
+		{"id":"127209a1c27bb37a","x":1280,"y":160,"width":375,"height":120,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"f918b04bf7ba753d","fromNode":"5af5117df3c4033e","fromSide":"right","toNode":"c303f3cff994766c","toSide":"left"},
 		{"id":"bf6adc5f06fae003","fromNode":"5af5117df3c4033e","fromSide":"bottom","toNode":"9999fb20529e412a","toSide":"top"},
 		{"id":"0a1d4fbe07deea4e","fromNode":"9999fb20529e412a","fromSide":"right","toNode":"702d6d521f5cb7d7","toSide":"left"},
 		{"id":"4fee093de417bcaf","fromNode":"9999fb20529e412a","fromSide":"bottom","toNode":"c50369557fb1b20e","toSide":"top"},
-		{"id":"b6f49212473c2865","fromNode":"c50369557fb1b20e","fromSide":"right","toNode":"70633ee92d5b05ef","toSide":"left"}
+		{"id":"b6f49212473c2865","fromNode":"c50369557fb1b20e","fromSide":"right","toNode":"70633ee92d5b05ef","toSide":"left"},
+		{"id":"35c29b69c4e24c13","fromNode":"70633ee92d5b05ef","fromSide":"right","toNode":"c33808579b72c7df","toSide":"left"},
+		{"id":"f65dbeee298cf741","fromNode":"c33808579b72c7df","fromSide":"right","toNode":"0daec57688cdafda","toSide":"left"},
+		{"id":"61d11560a5db0848","fromNode":"c33808579b72c7df","fromSide":"right","toNode":"127209a1c27bb37a","toSide":"left"}
 	]
 }
