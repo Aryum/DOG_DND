@@ -20,7 +20,8 @@
 		{"id":"2fee9e5a58f9e03c","type":"text","text":"Darian\nPatrol that found [[Nikolai Oak]]","x":457,"y":1563,"width":250,"height":86},
 		{"id":"9322a993ff785f69","type":"text","text":"Next to your table you see 3 soldiers wearing a red tabbard","x":60,"y":1306,"width":250,"height":109},
 		{"id":"69a2cf8e050ab651","type":"text","text":"[[Soldiers]]","x":-340,"y":1331,"width":250,"height":60},
-		{"id":"31cd568eef15ff2d","x":-345,"y":1783,"width":250,"height":60,"type":"text","text":"[[Barkeeper (Thorf Widehook)]] comes back"}
+		{"id":"31cd568eef15ff2d","x":-340,"y":1860,"width":250,"height":60,"type":"text","text":"[[Barkeeper (Thorf Widehook)]] comes back"},
+		{"id":"5f5d0f49ab24d1ab","x":80,"y":1860,"width":820,"height":260,"type":"text","text":"- Sorry for the wait lads, Busy day. I hope it quenches ya hunger (he hands you a platter filled with meats fis)"}
 	],
 	"edges":[
 		{"id":"f918b04bf7ba753d","fromNode":"5af5117df3c4033e","fromSide":"right","toNode":"c303f3cff994766c","toSide":"left"},
@@ -42,6 +43,7 @@
 		{"id":"17d3753f38b23d0c","fromNode":"f0afa8fa72f7f368","fromSide":"right","toNode":"f365510b583db5bb","toSide":"left"},
 		{"id":"4bc6cfe1db95ddaf","fromNode":"2fee9e5a58f9e03c","fromSide":"right","toNode":"d57eecc6f09802cc","toSide":"left"},
 		{"id":"fe7a53c3714db897","fromNode":"d57eecc6f09802cc","fromSide":"right","toNode":"ca21ec94d7012eaa","toSide":"left"},
-		{"id":"3c2155c16b644980","fromNode":"69a2cf8e050ab651","fromSide":"bottom","toNode":"31cd568eef15ff2d","toSide":"top"}
+		{"id":"3c2155c16b644980","fromNode":"69a2cf8e050ab651","fromSide":"bottom","toNode":"31cd568eef15ff2d","toSide":"top"},
+		{"id":"1781fe606b543369","fromNode":"31cd568eef15ff2d","fromSide":"right","toNode":"5f5d0f49ab24d1ab","toSide":"left"}
 	]
 }
