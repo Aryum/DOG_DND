@@ -1,9 +1,13 @@
 {
 	"nodes":[
 		{"id":"c303f3cff994766c","x":60,"y":-332,"width":647,"height":162,"type":"text","text":"After the fall, you feel like you are in a completely different place, the air around you feels warmer, more welcoming. \nYou look upwards and the rupture where you fell from is no longer there.\nIn front of you lays a wooden door with some light coming from the small gaps between the frame"},
-		{"id":"5af5117df3c4033e","x":-340,"y":-281,"width":250,"height":60,"type":"text","text":"After fall"}
+		{"id":"5af5117df3c4033e","x":-340,"y":-281,"width":250,"height":60,"type":"text","text":"After fall"},
+		{"id":"9999fb20529e412a","x":-336,"y":-66,"width":250,"height":60,"type":"text","text":"open door"},
+		{"id":"702d6d521f5cb7d7","x":106,"y":-67,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
-		{"id":"f918b04bf7ba753d","fromNode":"5af5117df3c4033e","fromSide":"right","toNode":"c303f3cff994766c","toSide":"left"}
+		{"id":"f918b04bf7ba753d","fromNode":"5af5117df3c4033e","fromSide":"right","toNode":"c303f3cff994766c","toSide":"left"},
+		{"id":"bf6adc5f06fae003","fromNode":"5af5117df3c4033e","fromSide":"bottom","toNode":"9999fb20529e412a","toSide":"top"},
+		{"id":"0a1d4fbe07deea4e","fromNode":"9999fb20529e412a","fromSide":"right","toNode":"702d6d521f5cb7d7","toSide":"left"}
 	]
 }
