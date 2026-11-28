@@ -19,8 +19,12 @@
 		{"id":"f5f854557f6e2b92","type":"text","text":"\n[[Nikolai Oak]]\n\t\tSee the blood running through your hands\n\t\tBid your farewell to the ones you love\n\t\tTheir grief but a fleeting feeling\n\t\tFor nature is calling \n\t\t\n\n[[Niels]]\n\t\tNumb lost in time  \n\t\tHears whispers of a world in an endless night\n\t\tCling to comfort child, no longer\n\t\tThere's nowhere left to run, nowhere left to hide\n\n[[Seraphim the lost]]\n\t\tTears of the father, blood of the son  \n\t\tThrough years of dishonor, come undone\n\t\tFeel the ancient ones guiding your sword  \n\t\tLet fly all your fears and respond to the call\n\t\t\n\n[[Rin and Machi]]\n\tRin\n\t\t\tYou felt the light and it felt good\n\t\t\tJourneyed away, far from that place\n\t\t\tAnd prayed, none would know you\n\t\t\tIn the shadow of the light\n\tMachi\n\t\t\tFaced with the dark, forced to chose  \n\t\t\tThose shadows led you astray\n\t\t\tYou want the world to forget\n\t\t\tThe memory of darker days\n\t","x":1460,"y":1980,"width":620,"height":900},
 		{"id":"22d687716d7e49e3","type":"text","text":"Readings","x":-280,"y":2310,"width":250,"height":60},
 		{"id":"cdeabceec7aab14f","type":"text","text":"Final boss","x":-280,"y":2837,"width":250,"height":60},
-		{"id":"d13affe877d4b4da","type":"text","text":"You start hearing something hitting hard at the temple doors, with each hit the door splinter a bit. Fog starts coming in from the wall gaps from where the light once came\n\nThe door gives in and from it comes a massive beast like humanoid creature, its body covered in black fur with horns sprouting from his back wielding a battle axe. Roll initiative\n\nHis body begins to dissolve. The room gets flooded with a thick warmer fog and you become overwhelmed with memories","x":400,"y":2760,"width":699,"height":214},
-		{"id":"1aeb726fedd9331e","x":629,"y":3066,"width":250,"height":60,"type":"text","text":"[[4 Epilogue.canvas]]"}
+		{"id":"d13affe877d4b4da","type":"text","text":"You start hearing something hitting hard at the temple doors, with each hit the door splinter a bit. Fog starts coming in from the wall gaps from where the light once came\n\nThe door gives in and from it comes a massive beast like humanoid creature, its body covered in black fur with horns sprouting from his back wielding a battle axe. Roll initiative\n\nHis body begins to dissolve. The room gets flooded with a thick warmer fog. ","x":400,"y":2760,"width":699,"height":214},
+		{"id":"1aeb726fedd9331e","type":"text","text":"[[4 Epilogue.canvas]]","x":625,"y":3280,"width":250,"height":60},
+		{"id":"2d467dde6ae581c2","type":"text","text":"(Roll constituon saving throw) Start to become overwhelmed with memories","x":451,"y":3040,"width":609,"height":50},
+		{"id":"e887f246592ed987","type":"text","text":"[[Niels and Seraphim Epilogue]]","x":1154,"y":3023,"width":326,"height":60},
+		{"id":"9f1decd4cd060de6","type":"text","text":"[[Rin and Machi]]","x":1154,"y":3120,"width":250,"height":60},
+		{"id":"0e97e26e0646170b","type":"text","text":"[[Nikolai Oak]]","x":1151,"y":3218,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"48133f4cf9e312c8","fromNode":"8e4d4014fed81edb","fromSide":"right","toNode":"f829a1c42a6fa379","toSide":"left"},
@@ -45,6 +49,10 @@
 		{"id":"1420875f61400941","fromNode":"a4d470aac1b5efc3","fromSide":"right","toNode":"f5f854557f6e2b92","toSide":"left"},
 		{"id":"2711cd2ea4f9757f","fromNode":"22d687716d7e49e3","fromSide":"bottom","toNode":"cdeabceec7aab14f","toSide":"top"},
 		{"id":"ec291e6c7c8a9433","fromNode":"cdeabceec7aab14f","fromSide":"right","toNode":"d13affe877d4b4da","toSide":"left"},
-		{"id":"6241a78fc2a3fafd","fromNode":"d13affe877d4b4da","fromSide":"bottom","toNode":"1aeb726fedd9331e","toSide":"top"}
+		{"id":"2994d46961598486","fromNode":"d13affe877d4b4da","fromSide":"bottom","toNode":"2d467dde6ae581c2","toSide":"top"},
+		{"id":"bcdb0e71254fc21b","fromNode":"2d467dde6ae581c2","fromSide":"bottom","toNode":"1aeb726fedd9331e","toSide":"top"},
+		{"id":"03926957def1859c","fromNode":"2d467dde6ae581c2","fromSide":"right","toNode":"e887f246592ed987","toSide":"left"},
+		{"id":"4057b65a807f67b7","fromNode":"2d467dde6ae581c2","fromSide":"right","toNode":"9f1decd4cd060de6","toSide":"left"},
+		{"id":"84f8a51f33364265","fromNode":"2d467dde6ae581c2","fromSide":"right","toNode":"0e97e26e0646170b","toSide":"left"}
 	]
 }

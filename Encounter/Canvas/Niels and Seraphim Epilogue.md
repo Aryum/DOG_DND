@@ -1,0 +1,16 @@
+[[Seraphim the lost]]
+
+You remember your childhood, the long afternoons spent inside learning from a scholar about politics and how to govern, to one day succeed your father. But you cared not for the glamorous life of the court, your heart wanted adventure, see new lands and the thrill of battle. But alas the day came when you had to fill your father shoes. You had learned about diplomacy, how to manage trade and wealth, but in your mind told you other stories, about greatness and glory. 
+You decided not to settle in comfort and peace, you started a campaign of conquest. Lead your men to many victories, growing bolder with each one. Your bravery commended by everyone but your old tutor. One battle, your blood was boiling, you jumped at the front lines, in the heat of battle you were separated from your allies, you had drifted off the battle field. Your comrades looked for you, they were starting to be overwhelmed by the enemy without your guidance. But soon realized that they had to retreat to avoid catastrophic loses. 
+You remember the shame you felt, the journey you took to become worthy of the crown you had never asked for. You learned about the new king, how he had led your lands to ruin, bringing poverty and pain to its people. The time had come to fill your father shoes again, you built an army to reclaim the destiny that was chosen for you. 
+You remember leading the assault and again, the feeling of blood rushing through your veins, the thrill of battle that once made you disappear, jumping in to the front lines again. You wake up, in the middle of a battlefield, your helmet cracked, surrounded by your kinsman, they were able to find you this time. 
+(whats on your head)
+As they see you wake up, they find a new strength, you quickly make to the palace 
+
+[[Niels]]
+You remember your days with the old king, the quiet life you had before all this nightmare, your library, the long afternoons spent teaching the young king the politics the bureaucracy of being a king. 
+You remember his ascension to the throne and how he soon departed on a conquest, against your counsel. 
+You remember the grief you felt when you heard that he got lost in a battle, the pain that it was to accept a new king, the anguish of seeing the once prosperous lands being led to ruin and the despair of being sent to the front lines, the enemies breaking your defenses, and you making your run to the palace, going to the library, and falling into the ground. 
+(whats on your head)
+You wake up, feeling hot, a candlestick by your side starting to burn your clothes. As you put out the flames you hear men ramming the door, you remove your poor excuse of an armor that the old king had appointed you and switch to your robes. 
+You hear the voice of his old mentee, commanding his man to rush to the palace floors, run towards him, you feel like you are in a dream, a good one this time. Finally together, you cannot withhold the tears of joy, but alas its not the time for reunions, you both press on to dethrone the tyranical king.
